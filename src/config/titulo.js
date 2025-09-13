@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Ajuste y precisión'
