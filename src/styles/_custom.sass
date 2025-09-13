@@ -67,10 +67,58 @@ figcaption
     margin-inline: -1.4rem  
     background-size: cover 
 
-
+.fa-angle-right2
+  content: url('../assets/curso/Tema2/circulo.svg')
+  width: 12px
+  height: 12px
 .bg1
   background-color: #F3F9FF
   border-radius: 20px
 .bg2
   background-color: #EDF7ED
   border-radius: 20px
+.bg3
+  background-color: #DBEEDC
+.bg4
+  background-color: #FFB74D
+.bg5
+  background-color: #FFF7D6
+  border-radius: 20px
+.texto-izquierda 
+  text-align: left !important
+
+.acordion__accion__btn--a 
+  background-color: #3BF2D6 !important
+.acordion .tarjeta--azul
+  background-color: #ECE7F6 !important
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #EDF7ED !important
+
+.subt
+  display: flex
+  align-items: center
+  position: relative
+  width: fit-content
+  img
+    width: 70px
+  &::after
+    content: ''
+    position: absolute
+    background-color: $color-primario
+    border-top-right-radius: 20px
+    width: 94.5%
+    height: 70%
+    top: 10px
+    right: 0
+    z-index: 0
+  h3, img
+    z-index: 999  
+    position: relative
+  @media (max-width: $bp-max-sm)
+    &::after
+      height: 90%
+      top: 2px
+  @media (max-width: $bp-max-xs)
+    &::after
+      height: 95%
+      top: 0px
