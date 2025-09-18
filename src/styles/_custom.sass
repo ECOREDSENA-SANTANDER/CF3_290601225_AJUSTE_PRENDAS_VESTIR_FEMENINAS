@@ -100,8 +100,22 @@ figcaption
 .bg11
   background-color: #7E768C
   border-radius: 20px
+.bg12
+  background-color: #FFF0DB
+  border-radius: 20px
 .bg1color
   color: #FFB74D
+.bgs-1
+  background-image: url('../assets/curso/Tema4/fondo1.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
 .tabs-c__content-item
   background-color: #EDF7ED
   margin-top: -15px !important
@@ -173,3 +187,36 @@ figcaption
     &::after
       height: 95%
       top: 0px
+
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  display: inline-block
+  overflow: hidden
+  position: relative
+  border-radius: 25px
+  -webkit-transform: translateZ(0)
+  -moz-transform: translateZ(0)
+  transform: translateZ(0) 
+  &:hover    
+    .crd_hover_txt--body
+      height: 75%   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #FFE2B8
+      h4, p
+        opacity: 1
+        color: #12263F !important
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.1rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #A79DBB
+    h4
+      color: #ffff
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
