@@ -11,11 +11,11 @@
       .row.align-items-center
         .col-lg-5.col-md-12.d-none.d-lg-block
           img(src='@/assets/curso/Tema4/img01.png', alt='') 
-        .col-lg-7
+        .col-lg-7.p-4
           p El suprareciclaje, conocido internacionalmente como #[em upcycling], es una práctica orientada a la transformación de objetos o prendas previamente desechadas, con el propósito de darles una segunda vida útil que aporte un valor funcional, estético o simbólico superior al original. A diferencia del reciclaje convencional, que se centra en la reutilización directa de materiales, el suprareciclaje implica intervención, rediseño y reconstrucción, lo cual le otorga un carácter creativo, artesanal y de alto contenido técnico.
           p Esta metodología ha cobrado gran relevancia en el contexto de la economía circular, donde se prioriza la reducción del desperdicio, la prolongación del ciclo de vida de los productos y el uso consciente de los recursos. La industria de la moda, reconocida como una de las más contaminantes a nivel global por la cantidad de desechos textiles que genera, ha comenzado a adoptar el suprareciclaje como una estrategia de producción más ética, sostenible y socialmente comprometida.
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-9
+        .col-lg-9.mb-4
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 12. 
             span Ventajas del suprareciclaje aplicado a la confección de prendas
@@ -45,7 +45,7 @@
                   td.texto-izquierda #[b Contribución al cuidado del planeta.]
                   td.texto-izquierda Se convierte en una estrategia activa para enfrentar la crisis ambiental y de consumo.
             figcaption Fuente: SENA, (2025)
-        .col-lg-3 
+        .col-lg-3.col-6
           img(src='@/assets/curso/Tema4/img02.png', alt='')
 
     .row.justify-content-center.mb-4(data-aos="fade")
@@ -61,9 +61,9 @@
          
     .bg6.mb-4
       .row.justify-content-center.align-items-center
-        .col-lg-3
+        .col-lg-3.col-4
           img(src='@/assets/curso/Tema4/img04.svg', alt='')
-        .col-lg-8
+        .col-lg-8.p-4
           h5 Importante: 
           p Un ejemplo destacado en el ámbito latinoamericano es el de Positano, marca fundada en 2016 por las diseñadoras Agustina y Florencia Franco. Su propuesta inicial partió del rescate de prendas familiares en desuso, que transformaron en nuevas piezas con identidad propia. Este ejercicio de intervención consciente se convirtió en un emprendimiento exitoso, basado en la recolección de vestuario usado, su clasificación y posterior transformación en productos contemporáneos. Este modelo ha inspirado a otras personas a replicar prácticas similares, reforzando la idea de que la moda también puede ser ética, circular y comprometida con el entorno.
 
@@ -81,7 +81,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Cuando se trabaja con prendas u objetos textiles que han sido descartados, es fundamental reconocer que cada uno de esos productos está compuesto por fibras que han atravesado diversos procesos industriales, desde su transformación en hilos hasta la fabricación de telas.
-          .col-lg-4
+          .col-lg-4.col-5
             img(src='@/assets/curso/Tema4/img05.svg')
         .bg6.p-4
           p Por esta razón, cualquier intervención sobre estos materiales, ya sea para reutilización o transformación creativa, requiere un conocimiento básico sobre su composición textil, ya que de ello depende su comportamiento, su funcionalidad y su capacidad para integrarse en nuevos productos de forma segura y eficiente.
@@ -134,7 +134,7 @@
     .row.justify-content-center.mb-5
       .col-lg-4.mb-3
         .row.justify-content-center.align-items-center.bg12.p-4
-          .col-lg-3.mb-4.my-4
+          .col-lg-3.mb-4.my-4.col-4
             img(src="@/assets/curso/Tema4/img07.svg")
           .col-lg-10
             p.text-center A pesar de que la eliminación de residuos textiles puede parecer una solución inmediata, esta práctica conlleva consecuencias ambientales graves. La acumulación de textiles en vertederos genera emisiones de gases contaminantes (como el metano) y contribuye al debilitamiento de la capa de ozono, afectando directamente los ecosistemas y la salud humana. 
@@ -149,7 +149,7 @@
       h3.ps-3.pe-4.mb-0 Responsabilidad en la selección de materiales
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-6.mb-4.col-10
         img(src="@/assets/curso/Tema4/img08.png")
       .col-lg-6
         p Seleccionar conscientemente los materiales que serán intervenidos no solo es una decisión técnica, sino también ética. Las personas que trabajan en procesos de transformación, confección o rediseño deben:
@@ -184,7 +184,7 @@
                     li.mb-0.d-flex
                       i.fas.fa-angle-right2
                       | Reciclaje de bucle abierto: los materiales se destinan a la elaboración de productos en otras industrias, como la automotriz, la construcción o la fabricación de nuevos insumos industriales.
-                .col-lg-3.col-md-9
+                .col-lg-3.col-md-9.col-8
                   img(src='@/assets/curso/Tema4/img09.png')
               
               .row.justify-content-center.align-items-center
@@ -216,7 +216,7 @@
                     li.mb-0.d-flex 
                       i.fas.fa-angle-right2
                       p.mb-0 #[b Valorización: ]  aprovechamiento energético o material de los residuos que no pueden reciclarse, reduciendo así el impacto ambiental.
-                .col-lg-3.col-md-9
+                .col-lg-3.col-md-9.col-8
                   img(src='@/assets/curso/Tema4/img10.png')
              
 
@@ -228,30 +228,109 @@
                 .col-lg-5.col-md-11
                   p El procedimiento inicia con la clasificación, donde se separan los textiles reutilizables de los no reutilizables. Posteriormente, se realiza una reclasificación según la composición de la fibra, diferenciando materiales naturales (como algodón o lana) y sintéticos (como poliéster o acrílicos).
                   .row.justify-content-center.align-items-center.mb-3
-                    .col-lg-4
+                    .col-lg-4.col-6.mb-3
                       img(src='@/assets/curso/Tema4/img11.svg')
                     .col-lg-8
                       p Una vez identificada la composición, se procede al deshilachado o desfibrado, etapa en la que las prendas o retales se rompen para liberar las fibras. Estas fibras pasan por un proceso de cardado, estirado y peinado, que las alinea, limpia y uniforma para obtener una textura adecuada.
                   p Finalmente, las fibras tratadas se destinan a la hilatura, donde se convierten nuevamente en hilos aptos para la fabricación de nuevos tejidos, cerrando así el ciclo de aprovechamiento textil.
 
     Separador
-    #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 4.1 Residuos textiles
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 4.2 Suprareciclaje: transformación creativa y sostenible de prendas
+
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6.col-10.mb-4
+        img(src='@/assets/curso/Tema4/img11.png', alt='')
+      .col-lg-6
+        p Las aplicaciones del suprareciclaje en arreglos de prendas pueden agruparse así: 
+        ul.lista-ul
+          li.mb-0.d-flex
+            i.fas.fa-angle-right2
+            p #[b Conversión de tipologías:] transformar una camisa en una falda, pantalones en bolsos o chaquetas en chalecos.
+          li.mb-0.d-flex
+            i.fas.fa-angle-right2
+            p #[b Fragmentación y reensamblaje:] descomponer prendas en secciones y crear nuevas composiciones mediante combinación de cortes, colores o texturas.
+          li.mb-0.d-flex  
+            i.fas.fa-angle-right2
+            p #[b Intervención con técnicas mixtas:] aplicación de bordados, parches, tejidos artesanales, teñido manual o pintura textil para resignificar estéticamente la prenda.
+          li.mb-0.d-flex  
+            i.fas.fa-angle-right2
+            p #[b Integración de sobrantes textiles:] uso de retazos, dobladillos, piezas desechadas o forros para confeccionar nuevos elementos funcionales o decorativos.
+
+    .subt.mb-5(data-aos="fade")
+      img(src="@/assets/curso/Tema2/subt.svg")
+      h3.ps-3.pe-4.mb-0 Procedimiento técnico general
 
 
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        ol.lista-ol--cuadro
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span a
+            p #[b Selección y diagnóstico de la prenda base:] se analiza el estado de la prenda, identificando zonas útiles, partes dañadas, tipo de tela, costuras y posibles líneas de intervención.
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span b
+            p #[b Definición del nuevo diseño:]  a partir de bocetos o referencias, se establece el propósito de transformación, ya sea funcional (nueva prenda), decorativo (detalle), o conceptual (pieza única).
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span c
+            p #[b Desarme parcial o total:]  se separan cuidadosamente las partes seleccionadas, preservando las costuras, orillos o detalles constructivos que puedan ser reutilizados.
+
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span d
+            p #[b  Trazado de nuevos moldes:] se adapta el diseño a nuevas proporciones y se trazan los patrones sobre las piezas recuperadas.
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span e
+            p #[b Ensamble creativo y experimental:]  las nuevas piezas se ensamblan, combinando técnicas de costura convencional con intervención manual, dando lugar a una prenda renovada, con identidad propia.
+
+          li.d-flex
+            .lista-ol--cuadro__vineta
+              span f
+            p #[b Acabado y documentación:]  se rematan las uniones, se plancha técnicamente y, en contextos educativos o de diseño autoral, se documenta el proceso como parte del valor narrativo del objeto.
+
+      .col-lg-4.col-7
+        img(src='@/assets/curso/Tema4/img12.png', alt='')
+
+    .subt2.mb-5(data-aos="fade")    
+      h3.pb-1.mb-0 Ejemplos de proyectos de suprareciclaje
 
 
-
-
-
-
-
-
-
-
-
-
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+        .col-lg-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Tabla 13. 
+            span Ejemplos de arreglos de prendas
+          .tabla-a.color-acento-contenido 
+            table(alt='Tabla que presenta ejemplos de prendas de origen con sus respectivas transformaciones propuestas y el valor añadido resultante. Incluye pantalón denim, camisa masculina, chaqueta acolchada y fragmentos de ropa.')
+              thead
+                tr
+                  th.text-center.bg4.w-25 Prenda de origen
+                  th.text-center.bg4 Transformación propuesta
+                  th.text-center.bg4 Valor añadido
+              tbody
+                tr
+                  td.texto-izquierda #[b Pantalón #[em denim]]
+                  td.texto-izquierda Bolso cruzado con refuerzo interno.
+                  td.texto-izquierda Funcionalidad, durabilidad y estilo urbano.
+                tr
+                  td.texto-izquierda #[b Camisa masculina]
+                  td.texto-izquierda Falda con botones frontales y paneles laterales.
+                  td.texto-izquierda Rediseño con silueta adaptada al cuerpo femenino.
+                tr
+                  td.texto-izquierda #[b Chaqueta acolchada]
+                  td.texto-izquierda Chaleco con piezas combinadas y capucha.
+                  td.texto-izquierda Versatilidad, reducción de peso y uso de sobrantes.
+                tr
+                  td.texto-izquierda #[b Fragmentos de ropa.]
+                  td.texto-izquierda Top o accesorio ensamblado de forma libre.
+                  td.texto-izquierda Pieza única, identidad visual y valor artesanal.
+            figcaption Fuente: SENA, (2025)
 
 
 
