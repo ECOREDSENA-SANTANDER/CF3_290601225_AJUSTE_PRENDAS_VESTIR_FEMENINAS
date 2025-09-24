@@ -330,7 +330,7 @@
                   td.texto-izquierda #[b Fragmentos de ropa.]
                   td.texto-izquierda Top o accesorio ensamblado de forma libre.
                   td.texto-izquierda Pieza única, identidad visual y valor artesanal.
-            figcaption Fuente: SENA, (2025) PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            figcaption Fuente: SENA, (2025) 
 
 
 
