@@ -234,7 +234,9 @@
                       p Una vez identificada la composición, se procede al deshilachado o desfibrado, etapa en la que las prendas o retales se rompen para liberar las fibras. Estas fibras pasan por un proceso de cardado, estirado y peinado, que las alinea, limpia y uniforma para obtener una textura adecuada.
                   p Finalmente, las fibras tratadas se destinan a la hilatura, donde se convierten nuevamente en hilos aptos para la fabricación de nuevos tejidos, cerrando así el ciclo de aprovechamiento textil.
 
-
+    Separador
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 4.1 Residuos textiles
 
 
 
