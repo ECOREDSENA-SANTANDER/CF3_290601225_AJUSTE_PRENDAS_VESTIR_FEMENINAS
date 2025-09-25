@@ -356,6 +356,8 @@
         .col-lg-5
           img(src='@/assets/curso/Tema1/img16.png', alt='')
 
+      p PRUEBAAAAAAAAAAAAAAAAAAAAA
+
 
 
 
