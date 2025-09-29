@@ -134,7 +134,7 @@
     .row.justify-content-center.mb-5
       .col-lg-4.mb-3
         .row.justify-content-center.align-items-center.bg12.p-4
-          .col-lg-3.mb-4.my-4.col-4
+          .col-lg-3.mb-4.my-4.col-4.col-md-3
             img(src="@/assets/curso/Tema4/img07.svg")
           .col-lg-10
             p.text-center A pesar de que la eliminación de residuos textiles puede parecer una solución inmediata, esta práctica conlleva consecuencias ambientales graves. La acumulación de textiles en vertederos genera emisiones de gases contaminantes (como el metano) y contribuye al debilitamiento de la capa de ozono, afectando directamente los ecosistemas y la salud humana. 

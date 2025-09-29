@@ -42,7 +42,7 @@
                 h4.mb-1.bg1color Introducción trazo y corte
                 p.mb-0.text-white Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
-                a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=GrVxMBnoups&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA')" target="_blank")
+                a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=pTwuCeaeTVI')" target="_blank")
                   span Ir al sitio
                   i.fas.fa-circle-play
 
@@ -50,8 +50,8 @@
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.1 Extendido de la tela
 
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-5.mb-3
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-5.mb-3.col-md-9
           img(src='@/assets/curso/Tema1/img02.png', alt='')
         .col-lg-7
           .row.justify-content-center.align-items-center
@@ -86,7 +86,7 @@
                   li.mb-0
                     i.fas.fa-angle-right2
                     | Acabados específicos.
-                  li.mb-0
+                  li.mb-0.d-flex
                     i.fas.fa-angle-right2
                     | Entender cómo se relacionan las partes del diseño para lograr un tendido del tejido correcto y eficiente. 
         .col-lg-5.col-10
@@ -232,7 +232,7 @@
                 h4.mb-1.bg1color Proceso de extendido
                 p.mb-0.text-white Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
-                a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=EBd_NzLC6dM&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA')" target="_blank")
+                a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=JlYuH7_zMwA')" target="_blank")
                   span Ir al sitio
                   i.fas.fa-circle-play
         
@@ -335,7 +335,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7
               ul.lista-ul
-                li.mb-0
+                li.mb-0.d-flex
                   i.fas.fa-angle-right2
                   | Materiales con brillo direccional o efecto reflectivo.
 
@@ -550,7 +550,7 @@
         h3.ps-3.pe-4.mb-0 Formas de transferencia de patrones al material textil
 
       .row.justify-content-center.align-items-center.mb-5.bg3
-        .col-lg-4.d-none.d-md-block.col-md-6.mb-3
+        .col-lg-4.col-md-6.mb-3.d-none.d-lg-block
           img(src="@/assets/curso/Tema1/img19.png")
         .col-lg-8
           .row.justify-content-center.align-items-center
@@ -741,7 +741,7 @@
                 h4.mb-1.bg1color Características del material desde trazo y corte 
                 p.mb-0.text-white Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
-                a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=Ul-AmX5ioxQ&t=695s&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA ')" target="_blank")
+                a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=mnB3EqkpF8g')" target="_blank")
                   span Ir al sitio
                   i.fas.fa-circle-play
 

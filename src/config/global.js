@@ -171,22 +171,152 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema: 'Técnicas y procesos para arreglo de prendas',
+      referencia:
+        'McCauley, D. (2019). Full or Small Bust Adjustments Tutorial. Central Iowa Chapter of the American Sewing Guild.',
+      tipo: 'PDF',
+      link:
+        'https://www.centraliowaasg.org/uploads/7/4/3/4/74341191/bust_pattern_adjustments.pdf?utm_source=chatgpt.com ',
+    },
+    {
+      tema: 'Gestión ambiental y la moda sostenible',
+      referencia:
+        'Cruz Roldán, G.L (2021). <i>Upcycling</i> en las colecciones de Moda Sostenible contemporáneas de América Latina. [Trabajo de grado, UPC].',
+      tipo: 'PDF',
+      link:
+        'https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/658097/Cruz_RG.pdf?isAllowed=y&sequence=3&utm_source=chatgpt.com ',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Forro',
+      significado:
+        'tela que está integrada a una prenda, comparten patrón y molde, pero estas difieren en largo, como por ejemplo, en chaquetas.',
+    },
+    {
+      termino: 'Bies',
+      significado:
+        'término sinónimo de sesgo, quiere decir que fue cortado a un ángulo de 45°.',
+    },
+    {
+      termino: 'Entretela',
+      significado:
+        'base que estabiliza una pieza que servirá de refuerzo en vistas o partes que necesiten dar soporte a una estructura de la prenda.',
+    },
+    {
+      termino: 'Guata',
+      significado:
+        'grupo de filamentos que sirven para acolchar y suele ser usado en hombreras.',
+    },
+    {
+      termino: 'Fibra textil',
+      significado:
+        'grupo de filamentos que pueden ser de origen natural, sintéticos o artificiales.',
+    },
+    {
+      termino: 'Hilvanar',
+      significado:
+        'cosido manual empleado en diversas técnicas de tejido de acuerdo con el proceso empleado en confección de prendas.',
+    },
+    {
+      termino: 'Alfileres',
+      significado:
+        'elementos utilizados para sostener prendas en el proceso de elaboración de prendas.',
+    },
+    {
+      termino: 'Goma o caucho',
+      significado:
+        'elemento elástico utilizado para la elaboración de cinturillas o en partes que implique el recogido para que sea adaptable al cuerpo.',
+    },
+    {
+      termino: 'Crin',
+      significado:
+        'insumo para la confección de prendas y accesorios, en algunos casos ayudan a dar soporte a las prendas, esto siempre dependerá de su uso.',
+    },
+    {
+      termino: 'Pedal',
+      significado:
+        'elemento que forma parte de las máquinas de coser prendas, su función es permitir el funcionamiento de la máquina con la ayuda del motor.',
+    },
+    {
+      termino: 'Ergonomía',
+      significado:
+        'disciplina que estudia las interacciones del ser humano con su entorno, reúne información que permite medir desempeño y optimización, buscando el bienestar de las personas.',
+    },
+    {
+      termino: 'Ajuste',
+      significado:
+        'modificación aplicada a una prenda para adecuarla a las medidas, forma o comodidad del cuerpo de quien la usa.',
+    },
+    {
+      termino: 'Reducción',
+      significado:
+        'proceso de disminución del volumen o talla de una prenda mediante ajustes en costuras, pinzas o cortes.',
+    },
+    {
+      termino: 'Ampliación',
+      significado:
+        'intervención que permite aumentar dimensiones en zonas específicas de una prenda, añadiendo tela o soltando márgenes.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Delego, D. (1974). Elegantísima: La enciclopedia práctica de la moda (Tomo 1: Temas básicos de la costura). Editorial Mo­de­la­ndo, S. R. L., Buenos Aires',
       link: '',
+    },
+    {
+      referencia:
+        'Jeffreys, C. (2005). Manual completo de costura (4. ª ed.). Editorial El Drac, S. L.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gilewska, T. (2009). Arreglos y modificaciones de prendas de vestir. Editorial El Drac.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gómez, M. L. (2020). Moda sostenible: Transforma y personaliza tu ropa. Editorial Gustavo Gili. Instituto Nacional Tecnológico. (2011). Manual de unión y acabado de prendas de vestir',
+      link: 'https://es.scribd.com/document/412659427',
+    },
+    {
+      referencia:
+        'Knight, L. (2010). Secretos de la buena modista: guía completa sobre técnicas de costura de moda. Océano Ambar.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Internacional de Normalización (ISO). (2015). Sistemas de gestión de la calidad – Fundamentos y vocabulario (ISO 9000:2015). ',
+      link: '',
+    },
+    {
+      referencia:
+        'Pacheco, V.H. (2023). Economía circular y el arreglo y modificación de ropa. LinkedIn. ',
+      link:
+        'https://es.linkedin.com/pulse/econom%C3%ADa-circular-y-el-arreglo-modificaci%C3%B3n-de-ropa-pacheco ',
+    },
+    {
+      referencia:
+        'Recovo. (2024). El creciente problema de los residuos textiles.',
+      link:
+        'https://recovo.co/es/blog/article/como-las-fibras-recicladas-estan-transformando-la-industria-textil',
+    },
+    {
+      referencia:
+        'SENA. (2021). Guía para el aprendizaje: Procesos de transformación y ensamble de prendas de vestir. Servicio Nacional de Aprendizaje.',
+      link: '',
+    },
+    {
+      referencia:
+        'Textile Exchange. (2022). Preferred Fiber & Materials Market Report. Recuperado de: ',
+      link:
+        'https://textileexchange.org/app/uploads/2022/10/Textile-Exchange_PFMR_2022.pdf ',
+    },
+    {
+      referencia:
+        'Vitral Textil. (2024). Informe de tendencias 2025. Recuperado de:',
+      link: 'https://vitraltextil.com/2025/01/07/informe-tendencias-2024-2-3/',
     },
   ],
   creditos: [

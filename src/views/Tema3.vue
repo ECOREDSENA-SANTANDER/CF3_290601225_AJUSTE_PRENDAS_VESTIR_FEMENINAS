@@ -773,7 +773,7 @@
                   h4.mb-1.bg1color Inspección producto terminado
                   p.mb-0.text-white Para ampliar y profundizar en los contenidos abordados,  se recomienda consultar el siguiente enlace:
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=I8adPpXG-n8&t=28s')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=gI-vVYROAMY')" target="_blank")
                     span Ir al sitio
                     i.fas.fa-circle-play
 
@@ -845,14 +845,14 @@
                 h5 Figura 80.
                 span  Puntada de pespunte o continua
               img(src='@/assets/curso/Tema3/fig80.svg', alt='Representación del proceso de realización de una puntada de pespunte o continua, en la que la aguja atraviesa la tela hacia atrás, formando una línea de puntadas firmes y uniformes, ideal para costuras duraderas en confección a mano.')
-              figcaption.d-flex Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 81.
                 span  Puntada punto atrás posterior o máquina.
               img(src='@/assets/curso/Tema3/fig81.svg', alt='Secuencia del procedimiento para realizar la puntada punto atrás, también conocida como puntada de máquina. Consiste en insertar la aguja hacia atrás del punto anterior, creando una línea continua de puntadas resistentes, ideal para costuras permanentes hechas a mano. ')
-              figcaption Fuente: https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
+              figcaption.d-none.d-lg-block Fuente: https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
 
 
           .row.justify-content-center.align-items-center
@@ -861,14 +861,14 @@
                 h5 Figura 82.
                 span Punto de hilván
               img(src='@/assets/curso/Tema3/fig82.svg', alt='Una aguja atraviesa una tela, realizando una puntada larga y espaciada, con el hilo formando un recorrido alternado que se emplea para unir temporalmente dos capas.')
-              figcaption Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 83.
                 span   Puntada posterior separada
               img(src='@/assets/curso/Tema3/fig83.svg', alt='Pieza textil mientras una aguja atraviesa la superficie realizando una puntada lineal con hilo, formando una costura manual de tipo continuo.')
-              figcaption Fuente:  https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html 
+              figcaption.d-none.d-lg-block Fuente:  https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html 
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -876,14 +876,14 @@
                 h5 Figura 84.
                 span  Puntada de bastilla o de frunce
               img(src='@/assets/curso/Tema3/fig84.svg', alt='Una secuencia de puntadas agrupadas de forma densa genera un fruncido sobre una tela, indicando un procedimiento para ajustar volumen mediante hilo tensado.')
-              figcaption Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 85.
                 span Puntada de sobrehilado
               img(src='@/assets/curso/Tema3/fig85.svg', alt='Una aguja realiza puntadas consecutivas que envuelven el borde de una tela, formando un patrón de refuerzo lineal conocido como sobrehilado.')
-              figcaption Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -891,14 +891,14 @@
                 h5 Figura 86.
                 span  Punto de lado o inglés (para dobladillos)
               img(src='@/assets/curso/Tema3/fig86.svg', alt='Una aguja realiza una serie de puntadas diagonales que aseguran un doblez de una tela, formando una unión firme en el borde.')
-              figcaption Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 87.
                 span  Puntada doble sobrehilado
               img(src='@/assets/curso/Tema3/fig87.svg', alt='Una aguja atraviesa dos piezas textiles superpuestas, fijando un doblez con puntadas rectas distribuidas de forma uniforme a lo largo del borde.')
-              figcaption Fuente:  https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
+              figcaption.d-none.d-lg-block Fuente:  https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -906,14 +906,14 @@
                 h5 Figura 88.
                 span   Punto deslizado
               img(src='@/assets/curso/Tema3/fig88.svg', alt='Una aguja realiza puntadas diagonales que unen dos bordes doblados sobre una tela, formando una costura manual que asegura los dobleces de manera cruzada.')
-              figcaption Fuente:   https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente:   https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 89.
                 span Puntada invisible
               img(src='@/assets/curso/Tema3/fig89.svg', alt='Una aguja realiza una serie de puntadas en zigzag que aseguran el borde de un doblez sobre una tela.')
-              figcaption Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -921,14 +921,14 @@
                 h5 Figura 90.
                 span  Punto de cruz 
               img(src='@/assets/curso/Tema3/fig90.svg', alt='Una aguja ejecuta puntadas cruzadas sobre el borde de un doblez, uniendo dos capas textiles mediante un patrón diagonal que proporciona firmeza y acabado manual.')
-              figcaption Fuente:    https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaptio.d-none.d-lg-blockn Fuente:    https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 91.
                 span  Puntada de filete, festón o manta
               img(src='@/assets/curso/Tema3/fig91.svg', alt='Una aguja atraviesa el borde de una tela, realizando puntadas envolventes en forma de espiral, generando un acabado de refuerzo con hilo continuo.')
-              figcaption Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -936,14 +936,14 @@
                 h5 Figura 92.
                 span  Costura cadeneta
               img(src='@/assets/curso/Tema3/fig92.svg', alt='Se representa el proceso de formación de una puntada cadeneta, donde la aguja atraviesa la tela y el hilo se dispone en forma de bucle para crear la característica cadena de este tipo de costura.')
-              figcaption Fuente:  https://www.freepik.es/fotos-premium/algunas-puntadas-bordado-lienzo-aguja_19078574.htm#from_element=cross_selling__photo
+              figcaption.d-none.d-lg-block Fuente:  https://www.freepik.es/fotos-premium/algunas-puntadas-bordado-lienzo-aguja_19078574.htm#from_element=cross_selling__photo
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 93.
                 span  Puntada de ojal 
               img(src='@/assets/curso/Tema3/fig93.svg', alt='Una aguja atraviesa una tela, en dirección vertical, mientras el hilo forma múltiples bucles consecutivos en un lateral.')
-              figcaption Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -951,14 +951,14 @@
                 h5 Figura 94.
                 span  Hilván flojo
               img(src='@/assets/curso/Tema3/fig94.svg', alt='A la izquierda, una aguja atraviesa una tela, realizando puntadas amplias y sueltas con trayecto ondulado. A la derecha, un doblez está sostenido por puntadas rectas verticales, con una indicación de apertura en línea recta acompañada por un símbolo de corte.')
-              figcaption Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 95.
                 span  Puntada escapulario o gaviado
               img(src='@/assets/curso/Tema3/fig95.svg', alt='Una aguja realiza una serie de puntadas cruzadas en la parte inferior de una pieza con doblez, formando un patrón en forma de equis que asegura el borde doblado a la base.')
-              figcaption Fuente: https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
+              figcaption.d-none.d-lg-block Fuente: https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
 
 
 
