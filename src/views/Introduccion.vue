@@ -31,8 +31,8 @@
         .col-lg-11.col-md-11.col-11
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/pTwuCeaeTVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video. Introducción trazo y corte
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/-WIJhP9l7aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video. Ajuste y precisión
 
 </template>
 

@@ -66,7 +66,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 22. 
                             span  Paso 1
-                          img(src='@/assets/curso/Tema3/fig22.svg', alt='Superficie rectangular de papel plegada en uno de sus extremos, con línea discontinua paralela al borde que indica la ubicación de un doblez o margen de costura. La imagen se encuentra:  Pág. 67 anexo 1 Cargado al sharepoint Pieza rectangular de tela con doble línea de costura visible al centro, generando un acabado simétrico. El área central forma una pestaña doblada hacia ambos lados. La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint Tira de tela posicionada con doblez central marcado y costuras planas a cada lado, mientras una plancha se aplica en uno de los extremos para asentar el acabado La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint Superficie textil con doble línea de pespunte vertical. En la parte superior se amplía el detalle para evidenciar el acabado centrado de una costura recta La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig22.svg', alt='Superficie rectangular de papel plegada en uno de sus extremos, con línea discontinua paralela al borde que indica la ubicación de un doblez o margen de costura.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -78,7 +78,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 23. 
                             span  Paso 2
-                          img(src='@/assets/curso/Tema3/fig23.svg', alt='Superficie rectangular de papel plegada en uno de sus extremos, con línea discontinua paralela al borde que indica la ubicación de un doblez o margen de costura. La imagen se encuentra:  Pág. 67 anexo 1 Cargado al sharepoint Pieza rectangular de tela con doble línea de costura visible al centro, generando un acabado simétrico. El área central forma una pestaña doblada hacia ambos lados. La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint Tira de tela posicionada con doblez central marcado y costuras planas a cada lado, mientras una plancha se aplica en uno de los extremos para asentar el acabado La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint Superficie textil con doble línea de pespunte vertical. En la parte superior se amplía el detalle para evidenciar el acabado centrado de una costura recta La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig23.svg', alt='Pieza rectangular de tela con doble línea de costura visible al centro, generando un acabado simétrico. El área central forma una pestaña doblada hacia ambos lados.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -90,7 +90,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 24.  
                             span  Paso 3
-                          img(src='@/assets/curso/Tema3/fig24.svg', alt='Superficie rectangular de papel plegada en uno de sus extremos, con línea discontinua paralela al borde que indica la ubicación de un doblez o margen de costura. La imagen se encuentra:  Pág. 67 anexo 1 Cargado al sharepoint Pieza rectangular de tela con doble línea de costura visible al centro, generando un acabado simétrico. El área central forma una pestaña doblada hacia ambos lados. La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint Tira de tela posicionada con doblez central marcado y costuras planas a cada lado, mientras una plancha se aplica en uno de los extremos para asentar el acabado La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint Superficie textil con doble línea de pespunte vertical. En la parte superior se amplía el detalle para evidenciar el acabado centrado de una costura recta La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig24.svg', alt='Tira de tela posicionada con doblez central marcado y costuras planas a cada lado, mientras una plancha se aplica en uno de los extremos para asentar el acabado.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -102,7 +102,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 25. 
                             span  Paso 4
-                          img(src='@/assets/curso/Tema3/fig25.svg', alt='Superficie rectangular de papel plegada en uno de sus extremos, con línea discontinua paralela al borde que indica la ubicación de un doblez o margen de costura. La imagen se encuentra:  Pág. 67 anexo 1 Cargado al sharepoint Pieza rectangular de tela con doble línea de costura visible al centro, generando un acabado simétrico. El área central forma una pestaña doblada hacia ambos lados. La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint Tira de tela posicionada con doblez central marcado y costuras planas a cada lado, mientras una plancha se aplica en uno de los extremos para asentar el acabado La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint Superficie textil con doble línea de pespunte vertical. En la parte superior se amplía el detalle para evidenciar el acabado centrado de una costura recta La imagen se encuentra: Pág. 67 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig25.svg', alt='Superficie textil con doble línea de pespunte vertical. En la parte superior se amplía el detalle para evidenciar el acabado centrado de una costura recta.')
                           figcaption Fuente: Knight, (2010)
               
 
@@ -122,7 +122,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 26. 
                             span  Paso 1
-                          img(src='@/assets/curso/Tema3/fig26.svg', alt='Dos piezas textiles rectangulares. Una se encuentra extendida y la otra doblada de forma longitudinal, con sus bordes alineados hacia el interior. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Pieza textil rectangular con tira doblada y alineada sobre uno de los bordes. La unión está indicada mediante una línea recta acompañada de marcas de puntada. La imagen se encuentra: Pág. 68 anexo1, cargado al sharepoint Superficie textil con tira doblada y cosida sobre uno de sus bordes. La costura está representada por una línea discontinua paralela al margen. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Dos piezas textiles unidas en línea recta. Una de ellas presenta un doblez con costura visible paralela al borde, mientras la otra se extiende de manera plana. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Unión entre dos piezas textiles con costura lateral limpia y visible. El área de encuentro está resaltada con un acercamiento circular que permite apreciar el acabado recto y simétrico. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig26.svg', alt='Dos piezas textiles rectangulares. Una se encuentra extendida y la otra doblada de forma longitudinal, con sus bordes alineados hacia el interior.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -134,7 +134,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 27. 
                             span  Paso 2
-                          img(src='@/assets/curso/Tema3/fig27.svg', alt='Dos piezas textiles rectangulares. Una se encuentra extendida y la otra doblada de forma longitudinal, con sus bordes alineados hacia el interior. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Pieza textil rectangular con tira doblada y alineada sobre uno de los bordes. La unión está indicada mediante una línea recta acompañada de marcas de puntada. La imagen se encuentra: Pág. 68 anexo1, cargado al sharepoint Superficie textil con tira doblada y cosida sobre uno de sus bordes. La costura está representada por una línea discontinua paralela al margen. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Dos piezas textiles unidas en línea recta. Una de ellas presenta un doblez con costura visible paralela al borde, mientras la otra se extiende de manera plana. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Unión entre dos piezas textiles con costura lateral limpia y visible. El área de encuentro está resaltada con un acercamiento circular que permite apreciar el acabado recto y simétrico. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig27.svg', alt='Pieza textil rectangular con tira doblada y alineada sobre uno de los bordes. La unión está indicada mediante una línea recta acompañada de marcas de puntada.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -146,7 +146,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 28.  
                             span  Paso 3
-                          img(src='@/assets/curso/Tema3/fig28.svg', alt='Dos piezas textiles rectangulares. Una se encuentra extendida y la otra doblada de forma longitudinal, con sus bordes alineados hacia el interior. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Pieza textil rectangular con tira doblada y alineada sobre uno de los bordes. La unión está indicada mediante una línea recta acompañada de marcas de puntada. La imagen se encuentra: Pág. 68 anexo1, cargado al sharepoint Superficie textil con tira doblada y cosida sobre uno de sus bordes. La costura está representada por una línea discontinua paralela al margen. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Dos piezas textiles unidas en línea recta. Una de ellas presenta un doblez con costura visible paralela al borde, mientras la otra se extiende de manera plana. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Unión entre dos piezas textiles con costura lateral limpia y visible. El área de encuentro está resaltada con un acercamiento circular que permite apreciar el acabado recto y simétrico. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig28.svg', alt='Superficie textil con tira doblada y cosida sobre uno de sus bordes. La costura está representada por una línea discontinua paralela al margen.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -158,7 +158,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 29. 
                             span  Paso 4
-                          img(src='@/assets/curso/Tema3/fig29.svg', alt='Dos piezas textiles rectangulares. Una se encuentra extendida y la otra doblada de forma longitudinal, con sus bordes alineados hacia el interior. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Pieza textil rectangular con tira doblada y alineada sobre uno de los bordes. La unión está indicada mediante una línea recta acompañada de marcas de puntada. La imagen se encuentra: Pág. 68 anexo1, cargado al sharepoint Superficie textil con tira doblada y cosida sobre uno de sus bordes. La costura está representada por una línea discontinua paralela al margen. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Dos piezas textiles unidas en línea recta. Una de ellas presenta un doblez con costura visible paralela al borde, mientras la otra se extiende de manera plana. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Unión entre dos piezas textiles con costura lateral limpia y visible. El área de encuentro está resaltada con un acercamiento circular que permite apreciar el acabado recto y simétrico. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig29.svg', alt='Dos piezas textiles unidas en línea recta. Una de ellas presenta un doblez con costura visible paralela al borde, mientras la otra se extiende de manera plana.')
                           figcaption Fuente: Knight, (2010)
                 .row
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -170,7 +170,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 30.  
                             span  Pieza terminada
-                          img(src='@/assets/curso/Tema3/fig30.svg', alt='Dos piezas textiles rectangulares. Una se encuentra extendida y la otra doblada de forma longitudinal, con sus bordes alineados hacia el interior. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Pieza textil rectangular con tira doblada y alineada sobre uno de los bordes. La unión está indicada mediante una línea recta acompañada de marcas de puntada. La imagen se encuentra: Pág. 68 anexo1, cargado al sharepoint Superficie textil con tira doblada y cosida sobre uno de sus bordes. La costura está representada por una línea discontinua paralela al margen. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Dos piezas textiles unidas en línea recta. Una de ellas presenta un doblez con costura visible paralela al borde, mientras la otra se extiende de manera plana. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint Unión entre dos piezas textiles con costura lateral limpia y visible. El área de encuentro está resaltada con un acercamiento circular que permite apreciar el acabado recto y simétrico. La imagen se encuentra: Pág. 68 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig30.svg', alt='Unión entre dos piezas textiles con costura lateral limpia y visible. El área de encuentro está resaltada con un acercamiento circular que permite apreciar el acabado recto y simétrico.')
                           figcaption Fuente: Knight, (2010)
 
             
@@ -189,7 +189,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 31. 
                             span  Paso 1
-                          img(src='@/assets/curso/Tema3/fig31.svg', alt='Superficie de tela con líneas diagonales marcadas. En una esquina se ha recortado un triángulo, generando un ángulo inclinado sobre el borde superior derecho. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Dos piezas textiles están alineadas por sus bordes verticales. Una de ellas presenta una línea discontinua paralela al margen, que representa una costura de unión entre ambas. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Superficie textil con tira doblada en uno de los bordes, asegurada mediante costura recta visible. El acabado refuerza el extremo lateral de la pieza. La imagen se encuentra: Pág. 69 anexo1, cargado al sharepoint Pieza textil con doblez en el borde lateral, asegurado mediante una línea de puntadas visibles que recorren el margen de forma paralela. La imagen se encuentra: Pág. 36 anexo 1, cargado al sharepoint Pieza textil con costura doble en posición vertical al centro. Un acercamiento circular amplifica el detalle del pespunte, donde ambas líneas se mantienen equidistantes para lograr un acabado simétrico. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig31.svg', alt='Superficie de tela con líneas diagonales marcadas. En una esquina se ha recortado un triángulo, generando un ángulo inclinado sobre el borde superior derecho.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -201,7 +201,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 32. 
                             span  Paso 2
-                          img(src='@/assets/curso/Tema3/fig32.svg', alt='Superficie de tela con líneas diagonales marcadas. En una esquina se ha recortado un triángulo, generando un ángulo inclinado sobre el borde superior derecho. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Dos piezas textiles están alineadas por sus bordes verticales. Una de ellas presenta una línea discontinua paralela al margen, que representa una costura de unión entre ambas. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Superficie textil con tira doblada en uno de los bordes, asegurada mediante costura recta visible. El acabado refuerza el extremo lateral de la pieza. La imagen se encuentra: Pág. 69 anexo1, cargado al sharepoint Pieza textil con doblez en el borde lateral, asegurado mediante una línea de puntadas visibles que recorren el margen de forma paralela. La imagen se encuentra: Pág. 36 anexo 1, cargado al sharepoint Pieza textil con costura doble en posición vertical al centro. Un acercamiento circular amplifica el detalle del pespunte, donde ambas líneas se mantienen equidistantes para lograr un acabado simétrico. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig32.svg', alt='Dos piezas textiles están alineadas por sus bordes verticales. Una de ellas presenta una línea discontinua paralela al margen, que representa una costura de unión entre ambas.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -213,7 +213,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 33.  
                             span  Paso 3
-                          img(src='@/assets/curso/Tema3/fig33.svg', alt='Superficie de tela con líneas diagonales marcadas. En una esquina se ha recortado un triángulo, generando un ángulo inclinado sobre el borde superior derecho. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Dos piezas textiles están alineadas por sus bordes verticales. Una de ellas presenta una línea discontinua paralela al margen, que representa una costura de unión entre ambas. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Superficie textil con tira doblada en uno de los bordes, asegurada mediante costura recta visible. El acabado refuerza el extremo lateral de la pieza. La imagen se encuentra: Pág. 69 anexo1, cargado al sharepoint Pieza textil con doblez en el borde lateral, asegurado mediante una línea de puntadas visibles que recorren el margen de forma paralela. La imagen se encuentra: Pág. 36 anexo 1, cargado al sharepoint Pieza textil con costura doble en posición vertical al centro. Un acercamiento circular amplifica el detalle del pespunte, donde ambas líneas se mantienen equidistantes para lograr un acabado simétrico. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig33.svg', alt='Superficie textil con tira doblada en uno de los bordes, asegurada mediante costura recta visible. El acabado refuerza el extremo lateral de la pieza.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -225,7 +225,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 34. 
                             span  Paso 4
-                          img(src='@/assets/curso/Tema3/fig34.svg', alt='Superficie de tela con líneas diagonales marcadas. En una esquina se ha recortado un triángulo, generando un ángulo inclinado sobre el borde superior derecho. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Dos piezas textiles están alineadas por sus bordes verticales. Una de ellas presenta una línea discontinua paralela al margen, que representa una costura de unión entre ambas. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Superficie textil con tira doblada en uno de los bordes, asegurada mediante costura recta visible. El acabado refuerza el extremo lateral de la pieza. La imagen se encuentra: Pág. 69 anexo1, cargado al sharepoint Pieza textil con doblez en el borde lateral, asegurado mediante una línea de puntadas visibles que recorren el margen de forma paralela. La imagen se encuentra: Pág. 36 anexo 1, cargado al sharepoint Pieza textil con costura doble en posición vertical al centro. Un acercamiento circular amplifica el detalle del pespunte, donde ambas líneas se mantienen equidistantes para lograr un acabado simétrico. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig34.svg', alt='Pieza textil con doblez en el borde lateral, asegurado mediante una línea de puntadas visibles que recorren el margen de forma paralela.')
                           figcaption Fuente: Knight, (2010)
                 .row
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -237,7 +237,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 35.  
                             span  Pieza terminada
-                          img(src='@/assets/curso/Tema3/fig35.svg', alt='Superficie de tela con líneas diagonales marcadas. En una esquina se ha recortado un triángulo, generando un ángulo inclinado sobre el borde superior derecho. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Dos piezas textiles están alineadas por sus bordes verticales. Una de ellas presenta una línea discontinua paralela al margen, que representa una costura de unión entre ambas. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint Superficie textil con tira doblada en uno de los bordes, asegurada mediante costura recta visible. El acabado refuerza el extremo lateral de la pieza. La imagen se encuentra: Pág. 69 anexo1, cargado al sharepoint Pieza textil con doblez en el borde lateral, asegurado mediante una línea de puntadas visibles que recorren el margen de forma paralela. La imagen se encuentra: Pág. 36 anexo 1, cargado al sharepoint Pieza textil con costura doble en posición vertical al centro. Un acercamiento circular amplifica el detalle del pespunte, donde ambas líneas se mantienen equidistantes para lograr un acabado simétrico. La imagen se encuentra: Pág. 69 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig35.svg', alt='Pieza textil con costura doble en posición vertical al centro. Un acercamiento circular amplifica el detalle del pespunte, donde ambas líneas se mantienen equidistantes para lograr un acabado simétrico.')
                           figcaption Fuente: Knight, (2010)
 
 
@@ -256,7 +256,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 36. 
                             span  Paso 1
-                          img(src='@/assets/curso/Tema3/fig36.svg', alt='Pieza rectangular con doblez en el borde lateral, asegurado mediante una línea de puntadas paralela al margen, formando un acabado limpio en el extremo. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Dos piezas textiles están unidas por una tira central visible en la parte posterior. La unión genera un acabado plano con simetría a ambos lados del centro. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Aguja en posición diagonal atraviesa una superficie textil, mientras el hilo forma un lazo curvo al ser traccionado hacia el lado opuesto. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Unión central de dos piezas textiles, reforzada por una tira con bordes rematados a ambos lados. Las terminaciones laterales presentan acabado en sobrehilado simétrico. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Pieza textil con unión central marcada por una línea vertical. En el acercamiento se evidencian los bordes internos con terminaciones en sobrehilado, asegurando el acabado interior de la costura. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig36.svg', alt='Pieza rectangular con doblez en el borde lateral, asegurado mediante una línea de puntadas paralela al margen, formando un acabado limpio en el extremo.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -268,7 +268,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 37. 
                             span  Paso 2
-                          img(src='@/assets/curso/Tema3/fig37.svg', alt='Pieza rectangular con doblez en el borde lateral, asegurado mediante una línea de puntadas paralela al margen, formando un acabado limpio en el extremo. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Dos piezas textiles están unidas por una tira central visible en la parte posterior. La unión genera un acabado plano con simetría a ambos lados del centro. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Aguja en posición diagonal atraviesa una superficie textil, mientras el hilo forma un lazo curvo al ser traccionado hacia el lado opuesto. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Unión central de dos piezas textiles, reforzada por una tira con bordes rematados a ambos lados. Las terminaciones laterales presentan acabado en sobrehilado simétrico. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Pieza textil con unión central marcada por una línea vertical. En el acercamiento se evidencian los bordes internos con terminaciones en sobrehilado, asegurando el acabado interior de la costura. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig37.svg', alt='Dos piezas textiles están unidas por una tira central visible en la parte posterior. La unión genera un acabado plano con simetría a ambos lados del centro.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -280,7 +280,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 38.  
                             span  Paso 3
-                          img(src='@/assets/curso/Tema3/fig38.svg', alt='Pieza rectangular con doblez en el borde lateral, asegurado mediante una línea de puntadas paralela al margen, formando un acabado limpio en el extremo. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Dos piezas textiles están unidas por una tira central visible en la parte posterior. La unión genera un acabado plano con simetría a ambos lados del centro. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Aguja en posición diagonal atraviesa una superficie textil, mientras el hilo forma un lazo curvo al ser traccionado hacia el lado opuesto. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Unión central de dos piezas textiles, reforzada por una tira con bordes rematados a ambos lados. Las terminaciones laterales presentan acabado en sobrehilado simétrico. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Pieza textil con unión central marcada por una línea vertical. En el acercamiento se evidencian los bordes internos con terminaciones en sobrehilado, asegurando el acabado interior de la costura. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig38.svg', alt='Aguja en posición diagonal atraviesa una superficie textil, mientras el hilo forma un lazo curvo al ser traccionado hacia el lado opuesto.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -292,7 +292,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 39. 
                             span  Paso 4
-                          img(src='@/assets/curso/Tema3/fig39.svg', alt='Pieza rectangular con doblez en el borde lateral, asegurado mediante una línea de puntadas paralela al margen, formando un acabado limpio en el extremo. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Dos piezas textiles están unidas por una tira central visible en la parte posterior. La unión genera un acabado plano con simetría a ambos lados del centro. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Aguja en posición diagonal atraviesa una superficie textil, mientras el hilo forma un lazo curvo al ser traccionado hacia el lado opuesto. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Unión central de dos piezas textiles, reforzada por una tira con bordes rematados a ambos lados. Las terminaciones laterales presentan acabado en sobrehilado simétrico. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Pieza textil con unión central marcada por una línea vertical. En el acercamiento se evidencian los bordes internos con terminaciones en sobrehilado, asegurando el acabado interior de la costura. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig39.svg', alt='Unión central de dos piezas textiles, reforzada por una tira con bordes rematados a ambos lados. Las terminaciones laterales presentan acabado en sobrehilado simétrico.')
                           figcaption Fuente: Knight, (2010)
                 .row
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -304,7 +304,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 40.  
                             span  Pieza terminada
-                          img(src='@/assets/curso/Tema3/fig40.svg', alt='Pieza rectangular con doblez en el borde lateral, asegurado mediante una línea de puntadas paralela al margen, formando un acabado limpio en el extremo. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Dos piezas textiles están unidas por una tira central visible en la parte posterior. La unión genera un acabado plano con simetría a ambos lados del centro. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Aguja en posición diagonal atraviesa una superficie textil, mientras el hilo forma un lazo curvo al ser traccionado hacia el lado opuesto. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Unión central de dos piezas textiles, reforzada por una tira con bordes rematados a ambos lados. Las terminaciones laterales presentan acabado en sobrehilado simétrico. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Pieza textil con unión central marcada por una línea vertical. En el acercamiento se evidencian los bordes internos con terminaciones en sobrehilado, asegurando el acabado interior de la costura. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig40.svg', alt='Pieza textil con unión central marcada por una línea vertical. En el acercamiento se evidencian los bordes internos con terminaciones en sobrehilado, asegurando el acabado interior de la costura.')
                         
 
             .row.justify-content-center(titulo="e)	Acabado con pespunte")
@@ -323,7 +323,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 41. 
                             span  Paso 1
-                          img(src='@/assets/curso/Tema3/fig41.svg', alt='Superficie textil con margen doblado en uno de los bordes, asegurado mediante una línea de costura discontinua que corre paralela al extremo. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Dos piezas textiles unidas mediante una costura central por el reverso, con márgenes doblados hacia el interior. La vista posterior revela un acabado plano y simétrico. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Pieza textil con doblez reforzado en el borde derecho, compuesto por dos líneas de costura paralelas que aseguran el margen interior. El acabado es plano y resistente. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Pieza textil con tres líneas verticales de costura visibles. En el acercamiento superior se aprecia el detalle del pespunte doble que asegura una tira central, generando un acabado reforzado. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig41.svg', alt='Superficie textil con margen doblado en uno de los bordes, asegurado mediante una línea de costura discontinua que corre paralela al extremo.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -335,7 +335,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 42. 
                             span  Paso 2
-                          img(src='@/assets/curso/Tema3/fig42.svg', alt='Superficie textil con margen doblado en uno de los bordes, asegurado mediante una línea de costura discontinua que corre paralela al extremo. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Dos piezas textiles unidas mediante una costura central por el reverso, con márgenes doblados hacia el interior. La vista posterior revela un acabado plano y simétrico. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Pieza textil con doblez reforzado en el borde derecho, compuesto por dos líneas de costura paralelas que aseguran el margen interior. El acabado es plano y resistente. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Pieza textil con tres líneas verticales de costura visibles. En el acercamiento superior se aprecia el detalle del pespunte doble que asegura una tira central, generando un acabado reforzado. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig42.svg', alt='Dos piezas textiles unidas mediante una costura central por el reverso, con márgenes doblados hacia el interior. La vista posterior revela un acabado plano y simétrico.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -347,7 +347,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 43.  
                             span  Paso 3
-                          img(src='@/assets/curso/Tema3/fig43.svg', alt='Superficie textil con margen doblado en uno de los bordes, asegurado mediante una línea de costura discontinua que corre paralela al extremo. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Dos piezas textiles unidas mediante una costura central por el reverso, con márgenes doblados hacia el interior. La vista posterior revela un acabado plano y simétrico. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Pieza textil con doblez reforzado en el borde derecho, compuesto por dos líneas de costura paralelas que aseguran el margen interior. El acabado es plano y resistente. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Pieza textil con tres líneas verticales de costura visibles. En el acercamiento superior se aprecia el detalle del pespunte doble que asegura una tira central, generando un acabado reforzado. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig43.svg', alt='Pieza textil con doblez reforzado en el borde derecho, compuesto por dos líneas de costura paralelas que aseguran el margen interior. El acabado es plano y resistente.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -359,7 +359,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 44. 
                             span  Paso 4
-                          img(src='@/assets/curso/Tema3/fig44.svg', alt='Superficie textil con margen doblado en uno de los bordes, asegurado mediante una línea de costura discontinua que corre paralela al extremo. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Dos piezas textiles unidas mediante una costura central por el reverso, con márgenes doblados hacia el interior. La vista posterior revela un acabado plano y simétrico. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Pieza textil con doblez reforzado en el borde derecho, compuesto por dos líneas de costura paralelas que aseguran el margen interior. El acabado es plano y resistente. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint Pieza textil con tres líneas verticales de costura visibles. En el acercamiento superior se aprecia el detalle del pespunte doble que asegura una tira central, generando un acabado reforzado. La imagen se encuentra: Pág. 73 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig44.svg', alt='Pieza textil con tres líneas verticales de costura visibles. En el acercamiento superior se aprecia el detalle del pespunte doble que asegura una tira central, generando un acabado reforzado.')
                           figcaption Fuente: Knight, (2010)
 
             .row.justify-content-center(titulo="f)	Ojal hecho a mano")
@@ -377,7 +377,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 45. 
                             span  Paso 1
-                          img(src='@/assets/curso/Tema3/fig45.svg', alt='Puntadas agrupadas forman un ojal rodeado por hilo enrollado de forma pareja. Una aguja atraviesa lateralmente el centro del refuerzo, mientras el hilo forma un lazo para continuar la costura. Aguja atraviesa horizontalmente una estructura de hilo denso que forma un ojal reforzado. El hilo se curva alrededor del extremo redondeado, completando el contorno del acabado. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Superficie textil con ojal horizontal reforzado por puntadas densas. El acabado se presenta simétrico, con bordes compactos que delimitan la abertura central. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja atraviesa verticalmente una superficie, asegurando una serie de puntadas compactas dispuestas horizontalmente. El hilo se curva hacia atrás para continuar el refuerzo en el extremo del ojal. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig45.svg', alt='Aguja atraviesa una superficie textil desde el reverso, siguiendo una línea discontinua que marca el recorrido del pespunte. El hilo forma un lazo curvo antes de ser ajustado.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -389,7 +389,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 46. 
                             span  Paso 2
-                          img(src='@/assets/curso/Tema3/fig46.svg', alt='Puntadas agrupadas forman un ojal rodeado por hilo enrollado de forma pareja. Una aguja atraviesa lateralmente el centro del refuerzo, mientras el hilo forma un lazo para continuar la costura. Aguja atraviesa horizontalmente una estructura de hilo denso que forma un ojal reforzado. El hilo se curva alrededor del extremo redondeado, completando el contorno del acabado. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Superficie textil con ojal horizontal reforzado por puntadas densas. El acabado se presenta simétrico, con bordes compactos que delimitan la abertura central. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja atraviesa verticalmente una superficie, asegurando una serie de puntadas compactas dispuestas horizontalmente. El hilo se curva hacia atrás para continuar el refuerzo en el extremo del ojal. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig46.svg', alt='Aguja atraviesa una superficie desde el reverso mientras el hilo envuelve varias veces una línea vertical de puntadas agrupadas, formando un refuerzo decorativo o funcional.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -401,7 +401,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 47.  
                             span  Paso 3
-                          img(src='@/assets/curso/Tema3/fig47.svg', alt='Puntadas agrupadas forman un ojal rodeado por hilo enrollado de forma pareja. Una aguja atraviesa lateralmente el centro del refuerzo, mientras el hilo forma un lazo para continuar la costura. Aguja atraviesa horizontalmente una estructura de hilo denso que forma un ojal reforzado. El hilo se curva alrededor del extremo redondeado, completando el contorno del acabado. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Superficie textil con ojal horizontal reforzado por puntadas densas. El acabado se presenta simétrico, con bordes compactos que delimitan la abertura central. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja atraviesa verticalmente una superficie, asegurando una serie de puntadas compactas dispuestas horizontalmente. El hilo se curva hacia atrás para continuar el refuerzo en el extremo del ojal. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig47.svg', alt='Puntadas agrupadas forman un ojal rodeado por hilo enrollado de forma pareja. Una aguja atraviesa lateralmente el centro del refuerzo, mientras el hilo forma un lazo para continuar la costura.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -413,7 +413,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 48. 
                             span  Paso 4
-                          img(src='@/assets/curso/Tema3/fig48.svg', alt='Puntadas agrupadas forman un ojal rodeado por hilo enrollado de forma pareja. Una aguja atraviesa lateralmente el centro del refuerzo, mientras el hilo forma un lazo para continuar la costura. Aguja atraviesa horizontalmente una estructura de hilo denso que forma un ojal reforzado. El hilo se curva alrededor del extremo redondeado, completando el contorno del acabado. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Superficie textil con ojal horizontal reforzado por puntadas densas. El acabado se presenta simétrico, con bordes compactos que delimitan la abertura central. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja atraviesa verticalmente una superficie, asegurando una serie de puntadas compactas dispuestas horizontalmente. El hilo se curva hacia atrás para continuar el refuerzo en el extremo del ojal. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig48.svg', alt='Aguja atraviesa horizontalmente una estructura de hilo denso que forma un ojal reforzado. El hilo se curva alrededor del extremo redondeado, completando el contorno del acabado.')
                           figcaption Fuente: Knight, (2010)
                 .row
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -425,7 +425,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 49.  
                             span  Pieza terminada
-                          img(src='@/assets/curso/Tema3/fig49.svg', alt='Puntadas agrupadas forman un ojal rodeado por hilo enrollado de forma pareja. Una aguja atraviesa lateralmente el centro del refuerzo, mientras el hilo forma un lazo para continuar la costura. Aguja atraviesa horizontalmente una estructura de hilo denso que forma un ojal reforzado. El hilo se curva alrededor del extremo redondeado, completando el contorno del acabado. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Superficie textil con ojal horizontal reforzado por puntadas densas. El acabado se presenta simétrico, con bordes compactos que delimitan la abertura central. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja atraviesa verticalmente una superficie, asegurando una serie de puntadas compactas dispuestas horizontalmente. El hilo se curva hacia atrás para continuar el refuerzo en el extremo del ojal. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig49.svg', alt='Aguja atraviesa verticalmente una superficie, asegurando una serie de puntadas compactas dispuestas horizontalmente. El hilo se curva hacia atrás para continuar el refuerzo en el extremo del ojal.')
                           figcaption Fuente: Knight, (2010)
               
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -435,7 +435,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 50.  
                             span  Pieza terminada
-                          img(src='@/assets/curso/Tema3/fig50.svg', alt='Puntadas agrupadas forman un ojal rodeado por hilo enrollado de forma pareja. Una aguja atraviesa lateralmente el centro del refuerzo, mientras el hilo forma un lazo para continuar la costura. Aguja atraviesa horizontalmente una estructura de hilo denso que forma un ojal reforzado. El hilo se curva alrededor del extremo redondeado, completando el contorno del acabado. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Superficie textil con ojal horizontal reforzado por puntadas densas. El acabado se presenta simétrico, con bordes compactos que delimitan la abertura central. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja atraviesa verticalmente una superficie, asegurando una serie de puntadas compactas dispuestas horizontalmente. El hilo se curva hacia atrás para continuar el refuerzo en el extremo del ojal. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig50.svg', alt='Superficie textil con ojal horizontal reforzado por puntadas densas. El acabado se presenta simétrico, con bordes compactos que delimitan la abertura central.')
                           figcaption Fuente: Knight, (2010)
 
             .row.justify-content-center(titulo="g)	Ojal de tela")
@@ -453,7 +453,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 51. 
                             span  Pieza 1
-                          img(src='@/assets/curso/Tema3/fig51.svg', alt='Pieza rectangular colocada sobre una superficie contrastante, asegurada con puntadas largas distribuidas en todo su contorno. Las costuras delimitan el perímetro de fijación. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Dos rectángulos concéntricos marcados con líneas de puntadas largas delimitan una zona central sobre la tela. Una línea horizontal punteada atraviesa el espacio interior, indicando el eje de una futura abertura. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Zona rectangular delimitada con líneas de puntadas largas. En el centro, una figura de corte horizontal se extiende entre ambos extremos, terminando en formas triangulares que indican puntos de corte diagonal para formar una abertura interna. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja pasa desde el reverso hacia el frente de una abertura rectangular, guiada por una puntada vertical. El hilo forma una curva amplia sobre el fondo, iniciando la fijación de los bordes. Abertura rectangular con bordes internos asegurados por pequeñas puntadas manuales. En los extremos, los cortes diagonales están reforzados para evitar desgarros, mientras el centro mantiene la forma alineada. Abertura rectangular terminada con bordes plegados hacia el interior, formando un ojal de acabado limpio y centrado sobre la superficie textil. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig51.svg', alt='Pieza rectangular colocada sobre una superficie contrastante, asegurada con puntadas largas distribuidas en todo su contorno. Las costuras delimitan el perímetro de fijación.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -465,7 +465,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 52. 
                             span  Pieza 2
-                          img(src='@/assets/curso/Tema3/fig52.svg', alt='Pieza rectangular colocada sobre una superficie contrastante, asegurada con puntadas largas distribuidas en todo su contorno. Las costuras delimitan el perímetro de fijación. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Dos rectángulos concéntricos marcados con líneas de puntadas largas delimitan una zona central sobre la tela. Una línea horizontal punteada atraviesa el espacio interior, indicando el eje de una futura abertura. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Zona rectangular delimitada con líneas de puntadas largas. En el centro, una figura de corte horizontal se extiende entre ambos extremos, terminando en formas triangulares que indican puntos de corte diagonal para formar una abertura interna. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja pasa desde el reverso hacia el frente de una abertura rectangular, guiada por una puntada vertical. El hilo forma una curva amplia sobre el fondo, iniciando la fijación de los bordes. Abertura rectangular con bordes internos asegurados por pequeñas puntadas manuales. En los extremos, los cortes diagonales están reforzados para evitar desgarros, mientras el centro mantiene la forma alineada. Abertura rectangular terminada con bordes plegados hacia el interior, formando un ojal de acabado limpio y centrado sobre la superficie textil. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig52.svg', alt='Dos rectángulos concéntricos marcados con líneas de puntadas largas delimitan una zona central sobre la tela. Una línea horizontal punteada atraviesa el espacio interior, indicando el eje de una futura abertura.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -477,7 +477,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 53.  
                             span  Pieza 3
-                          img(src='@/assets/curso/Tema3/fig53.svg', alt='Pieza rectangular colocada sobre una superficie contrastante, asegurada con puntadas largas distribuidas en todo su contorno. Las costuras delimitan el perímetro de fijación. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Dos rectángulos concéntricos marcados con líneas de puntadas largas delimitan una zona central sobre la tela. Una línea horizontal punteada atraviesa el espacio interior, indicando el eje de una futura abertura. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Zona rectangular delimitada con líneas de puntadas largas. En el centro, una figura de corte horizontal se extiende entre ambos extremos, terminando en formas triangulares que indican puntos de corte diagonal para formar una abertura interna. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja pasa desde el reverso hacia el frente de una abertura rectangular, guiada por una puntada vertical. El hilo forma una curva amplia sobre el fondo, iniciando la fijación de los bordes. Abertura rectangular con bordes internos asegurados por pequeñas puntadas manuales. En los extremos, los cortes diagonales están reforzados para evitar desgarros, mientras el centro mantiene la forma alineada. Abertura rectangular terminada con bordes plegados hacia el interior, formando un ojal de acabado limpio y centrado sobre la superficie textil. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig53.svg', alt='Zona rectangular delimitada con líneas de puntadas largas. En el centro, una figura de corte horizontal se extiende entre ambos extremos, terminando en formas triangulares que indican puntos de corte diagonal para formar una abertura interna.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -489,7 +489,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 54. 
                             span  Pieza 4
-                          img(src='@/assets/curso/Tema3/fig54.svg', alt='Pieza rectangular colocada sobre una superficie contrastante, asegurada con puntadas largas distribuidas en todo su contorno. Las costuras delimitan el perímetro de fijación. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Dos rectángulos concéntricos marcados con líneas de puntadas largas delimitan una zona central sobre la tela. Una línea horizontal punteada atraviesa el espacio interior, indicando el eje de una futura abertura. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Zona rectangular delimitada con líneas de puntadas largas. En el centro, una figura de corte horizontal se extiende entre ambos extremos, terminando en formas triangulares que indican puntos de corte diagonal para formar una abertura interna. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja pasa desde el reverso hacia el frente de una abertura rectangular, guiada por una puntada vertical. El hilo forma una curva amplia sobre el fondo, iniciando la fijación de los bordes. Abertura rectangular con bordes internos asegurados por pequeñas puntadas manuales. En los extremos, los cortes diagonales están reforzados para evitar desgarros, mientras el centro mantiene la forma alineada. Abertura rectangular terminada con bordes plegados hacia el interior, formando un ojal de acabado limpio y centrado sobre la superficie textil. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig54.svg', alt='Aguja pasa desde el reverso hacia el frente de una abertura rectangular, guiada por una puntada vertical. El hilo forma una curva amplia sobre el fondo, iniciando la fijación de los bordes.')
                           figcaption Fuente: Knight, (2010)
                 .row
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -501,7 +501,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 55.  
                             span  Pieza 5
-                          img(src='@/assets/curso/Tema3/fig55.svg', alt='Pieza rectangular colocada sobre una superficie contrastante, asegurada con puntadas largas distribuidas en todo su contorno. Las costuras delimitan el perímetro de fijación. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Dos rectángulos concéntricos marcados con líneas de puntadas largas delimitan una zona central sobre la tela. Una línea horizontal punteada atraviesa el espacio interior, indicando el eje de una futura abertura. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Zona rectangular delimitada con líneas de puntadas largas. En el centro, una figura de corte horizontal se extiende entre ambos extremos, terminando en formas triangulares que indican puntos de corte diagonal para formar una abertura interna. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja pasa desde el reverso hacia el frente de una abertura rectangular, guiada por una puntada vertical. El hilo forma una curva amplia sobre el fondo, iniciando la fijación de los bordes. Abertura rectangular con bordes internos asegurados por pequeñas puntadas manuales. En los extremos, los cortes diagonales están reforzados para evitar desgarros, mientras el centro mantiene la forma alineada. Abertura rectangular terminada con bordes plegados hacia el interior, formando un ojal de acabado limpio y centrado sobre la superficie textil. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig55.svg', alt='Abertura rectangular con bordes internos asegurados por pequeñas puntadas manuales. En los extremos, los cortes diagonales están reforzados para evitar desgarros, mientras el centro mantiene la forma alineada.')
                           figcaption Fuente: Knight, (2010)
               
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -513,7 +513,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 56.  
                             span  Pieza 6
-                          img(src='@/assets/curso/Tema3/fig56.svg', alt='Pieza rectangular colocada sobre una superficie contrastante, asegurada con puntadas largas distribuidas en todo su contorno. Las costuras delimitan el perímetro de fijación. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Dos rectángulos concéntricos marcados con líneas de puntadas largas delimitan una zona central sobre la tela. Una línea horizontal punteada atraviesa el espacio interior, indicando el eje de una futura abertura. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Zona rectangular delimitada con líneas de puntadas largas. En el centro, una figura de corte horizontal se extiende entre ambos extremos, terminando en formas triangulares que indican puntos de corte diagonal para formar una abertura interna. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint Aguja pasa desde el reverso hacia el frente de una abertura rectangular, guiada por una puntada vertical. El hilo forma una curva amplia sobre el fondo, iniciando la fijación de los bordes. Abertura rectangular con bordes internos asegurados por pequeñas puntadas manuales. En los extremos, los cortes diagonales están reforzados para evitar desgarros, mientras el centro mantiene la forma alineada. Abertura rectangular terminada con bordes plegados hacia el interior, formando un ojal de acabado limpio y centrado sobre la superficie textil. La imagen se encuentra: Pág. 184 anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig56.svg', alt='Abertura rectangular terminada con bordes plegados hacia el interior, formando un ojal de acabado limpio y centrado sobre la superficie textil.')
                           figcaption Fuente: Knight, (2010)
 
             .row.justify-content-center(titulo="h)	Botones")
@@ -529,7 +529,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 57. 
                             span  Pieza 1
-                          img(src='@/assets/curso/Tema3/fig57.svg', alt='Una aguja atraviesa un botón de cuatro perforaciones mientras el hilo realiza un giro, asegurando el primer paso de fijación sobre una superficie textil plana. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón de cuatro perforaciones se encuentra asegurado sobre una superficie textil, con hilo cruzado que une dos orificios opuestos, mientras la aguja desciende para continuar la fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja con hilo comienza el proceso de unión pasando por uno de los orificios de un botón de cuatro perforaciones, ubicado sobre una superficie textil. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja atraviesa una superficie textil desde el reverso hacia el frente, llevando un hilo que forma un arco amplio y se dirige hacia una zona previamente intervenida con puntada. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón grueso con base elevada ha sido asegurado sobre una superficie textil mediante una puntada central, mientras el hilo y la aguja permanecen listos para continuar el proceso de fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos elementos circulares acolchados están ubicados de forma paralela sobre una superficie textil, dispuestos simétricamente y con volumen uniforme. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos botones circulares con cuatro perforaciones están alineados horizontalmente sobre una superficie textil, con bordes ligeramente elevados y disposición simétrica. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig57.svg', alt='Una aguja atraviesa un botón de cuatro perforaciones mientras el hilo realiza un giro, asegurando el primer paso de fijación sobre una superficie textil plana.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -541,7 +541,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 58. 
                             span  Pieza 2
-                          img(src='@/assets/curso/Tema3/fig58.svg', alt='Una aguja atraviesa un botón de cuatro perforaciones mientras el hilo realiza un giro, asegurando el primer paso de fijación sobre una superficie textil plana. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón de cuatro perforaciones se encuentra asegurado sobre una superficie textil, con hilo cruzado que une dos orificios opuestos, mientras la aguja desciende para continuar la fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja con hilo comienza el proceso de unión pasando por uno de los orificios de un botón de cuatro perforaciones, ubicado sobre una superficie textil. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja atraviesa una superficie textil desde el reverso hacia el frente, llevando un hilo que forma un arco amplio y se dirige hacia una zona previamente intervenida con puntada. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón grueso con base elevada ha sido asegurado sobre una superficie textil mediante una puntada central, mientras el hilo y la aguja permanecen listos para continuar el proceso de fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos elementos circulares acolchados están ubicados de forma paralela sobre una superficie textil, dispuestos simétricamente y con volumen uniforme. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos botones circulares con cuatro perforaciones están alineados horizontalmente sobre una superficie textil, con bordes ligeramente elevados y disposición simétrica. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig58.svg', alt='Un botón de cuatro perforaciones se encuentra asegurado sobre una superficie textil, con hilo cruzado que une dos orificios opuestos, mientras la aguja desciende para continuar la fijación.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -553,7 +553,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 59.  
                             span  Pieza 3
-                          img(src='@/assets/curso/Tema3/fig59.svg', alt='Una aguja atraviesa un botón de cuatro perforaciones mientras el hilo realiza un giro, asegurando el primer paso de fijación sobre una superficie textil plana. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón de cuatro perforaciones se encuentra asegurado sobre una superficie textil, con hilo cruzado que une dos orificios opuestos, mientras la aguja desciende para continuar la fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja con hilo comienza el proceso de unión pasando por uno de los orificios de un botón de cuatro perforaciones, ubicado sobre una superficie textil. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja atraviesa una superficie textil desde el reverso hacia el frente, llevando un hilo que forma un arco amplio y se dirige hacia una zona previamente intervenida con puntada. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón grueso con base elevada ha sido asegurado sobre una superficie textil mediante una puntada central, mientras el hilo y la aguja permanecen listos para continuar el proceso de fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos elementos circulares acolchados están ubicados de forma paralela sobre una superficie textil, dispuestos simétricamente y con volumen uniforme. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos botones circulares con cuatro perforaciones están alineados horizontalmente sobre una superficie textil, con bordes ligeramente elevados y disposición simétrica. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig59.svg', alt='Una aguja con hilo comienza el proceso de unión pasando por uno de los orificios de un botón de cuatro perforaciones, ubicado sobre una superficie textil.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -565,7 +565,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 60. 
                             span  Pieza 4
-                          img(src='@/assets/curso/Tema3/fig60.svg', alt='Una aguja atraviesa un botón de cuatro perforaciones mientras el hilo realiza un giro, asegurando el primer paso de fijación sobre una superficie textil plana. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón de cuatro perforaciones se encuentra asegurado sobre una superficie textil, con hilo cruzado que une dos orificios opuestos, mientras la aguja desciende para continuar la fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja con hilo comienza el proceso de unión pasando por uno de los orificios de un botón de cuatro perforaciones, ubicado sobre una superficie textil. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja atraviesa una superficie textil desde el reverso hacia el frente, llevando un hilo que forma un arco amplio y se dirige hacia una zona previamente intervenida con puntada. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón grueso con base elevada ha sido asegurado sobre una superficie textil mediante una puntada central, mientras el hilo y la aguja permanecen listos para continuar el proceso de fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos elementos circulares acolchados están ubicados de forma paralela sobre una superficie textil, dispuestos simétricamente y con volumen uniforme. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos botones circulares con cuatro perforaciones están alineados horizontalmente sobre una superficie textil, con bordes ligeramente elevados y disposición simétrica. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig60.svg', alt='Una aguja atraviesa una superficie textil desde el reverso hacia el frente, llevando un hilo que forma un arco amplio y se dirige hacia una zona previamente intervenida con puntada.')
                           figcaption Fuente: Knight, (2010)
                 .row.justify-content-center
                   .col-sm-8.col-lg-12.mb-4.mb-lg-0
@@ -577,20 +577,20 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 61.  
                             span  Pieza 5
-                          img(src='@/assets/curso/Tema3/fig61.svg', alt='Una aguja atraviesa un botón de cuatro perforaciones mientras el hilo realiza un giro, asegurando el primer paso de fijación sobre una superficie textil plana. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón de cuatro perforaciones se encuentra asegurado sobre una superficie textil, con hilo cruzado que une dos orificios opuestos, mientras la aguja desciende para continuar la fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja con hilo comienza el proceso de unión pasando por uno de los orificios de un botón de cuatro perforaciones, ubicado sobre una superficie textil. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja atraviesa una superficie textil desde el reverso hacia el frente, llevando un hilo que forma un arco amplio y se dirige hacia una zona previamente intervenida con puntada. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón grueso con base elevada ha sido asegurado sobre una superficie textil mediante una puntada central, mientras el hilo y la aguja permanecen listos para continuar el proceso de fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos elementos circulares acolchados están ubicados de forma paralela sobre una superficie textil, dispuestos simétricamente y con volumen uniforme. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos botones circulares con cuatro perforaciones están alineados horizontalmente sobre una superficie textil, con bordes ligeramente elevados y disposición simétrica. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig61.svg', alt='Un botón grueso con base elevada ha sido asegurado sobre una superficie textil mediante una puntada central, mientras el hilo y la aguja permanecen listos para continuar el proceso de fijación.')
                           figcaption Fuente: Knight, (2010)
                         .col-lg-3.mb-3
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 62.  
                             span  Botones forrados con patilla  
-                          img(src='@/assets/curso/Tema3/fig62.svg', alt='Una aguja atraviesa un botón de cuatro perforaciones mientras el hilo realiza un giro, asegurando el primer paso de fijación sobre una superficie textil plana. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón de cuatro perforaciones se encuentra asegurado sobre una superficie textil, con hilo cruzado que une dos orificios opuestos, mientras la aguja desciende para continuar la fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja con hilo comienza el proceso de unión pasando por uno de los orificios de un botón de cuatro perforaciones, ubicado sobre una superficie textil. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja atraviesa una superficie textil desde el reverso hacia el frente, llevando un hilo que forma un arco amplio y se dirige hacia una zona previamente intervenida con puntada. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón grueso con base elevada ha sido asegurado sobre una superficie textil mediante una puntada central, mientras el hilo y la aguja permanecen listos para continuar el proceso de fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos elementos circulares acolchados están ubicados de forma paralela sobre una superficie textil, dispuestos simétricamente y con volumen uniforme. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos botones circulares con cuatro perforaciones están alineados horizontalmente sobre una superficie textil, con bordes ligeramente elevados y disposición simétrica. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig62.svg', alt='Dos elementos circulares acolchados están ubicados de forma paralela sobre una superficie textil, dispuestos simétricamente y con volumen uniforme.')
                           figcaption Fuente: Knight, (2010)
 
                         .col-lg-3
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 63.  
                             span  Botones con agujeros
-                          img(src='@/assets/curso/Tema3/fig63.svg', alt='Una aguja atraviesa un botón de cuatro perforaciones mientras el hilo realiza un giro, asegurando el primer paso de fijación sobre una superficie textil plana. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón de cuatro perforaciones se encuentra asegurado sobre una superficie textil, con hilo cruzado que une dos orificios opuestos, mientras la aguja desciende para continuar la fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja con hilo comienza el proceso de unión pasando por uno de los orificios de un botón de cuatro perforaciones, ubicado sobre una superficie textil. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Una aguja atraviesa una superficie textil desde el reverso hacia el frente, llevando un hilo que forma un arco amplio y se dirige hacia una zona previamente intervenida con puntada. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Un botón grueso con base elevada ha sido asegurado sobre una superficie textil mediante una puntada central, mientras el hilo y la aguja permanecen listos para continuar el proceso de fijación. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos elementos circulares acolchados están ubicados de forma paralela sobre una superficie textil, dispuestos simétricamente y con volumen uniforme. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint Dos botones circulares con cuatro perforaciones están alineados horizontalmente sobre una superficie textil, con bordes ligeramente elevados y disposición simétrica. La imagen se encuentra: Pág.181 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig63.svg', alt='Dos botones circulares con cuatro perforaciones están alineados horizontalmente sobre una superficie textil, con bordes ligeramente elevados y disposición simétrica.')
                           figcaption Fuente: Knight, (2010)
 
             .row.justify-content-center(titulo="i) Cierres a presión")
@@ -606,7 +606,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 64. 
                             span  Pieza 1
-                          img(src='@/assets/curso/Tema3/fig64.svg', alt='Una aguja enhebrada atraviesa una superficie textil desde el anverso, con el hilo extendido en curva hacia un costado, iniciando el proceso de unión. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint. Un botón de base central elevada ha sido fijado sobre una superficie textil mediante varias puntadas laterales, mientras la aguja enhebrada continúa el proceso de costura desde uno de los orificios. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint. Dos broches metálicos están colocados en extremos opuestos de una prenda doblada, ubicados de forma simétrica para permitir el cierre por presión entre ambas piezas textiles. La imagen se encuentra: Pág.186 Anexo 1, cargado en el sharepoint. Botón de cierre metálico de presión, compuesto por una base circular con orificios para su fijación y una cabeza saliente que encaja con la parte complementaria del broche. Se utiliza comúnmente en prendas y accesorios para asegurar dos piezas de tela. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint.')
+                          img(src='@/assets/curso/Tema3/fig64.svg', alt='Una aguja enhebrada atraviesa una superficie textil desde el anverso, con el hilo extendido en curva hacia un costado, iniciando el proceso de unión.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -618,7 +618,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 65. 
                             span  Pieza 2
-                          img(src='@/assets/curso/Tema3/fig65.svg', alt='Una aguja enhebrada atraviesa una superficie textil desde el anverso, con el hilo extendido en curva hacia un costado, iniciando el proceso de unión. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint. Un botón de base central elevada ha sido fijado sobre una superficie textil mediante varias puntadas laterales, mientras la aguja enhebrada continúa el proceso de costura desde uno de los orificios. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint. Dos broches metálicos están colocados en extremos opuestos de una prenda doblada, ubicados de forma simétrica para permitir el cierre por presión entre ambas piezas textiles. La imagen se encuentra: Pág.186 Anexo 1, cargado en el sharepoint. Botón de cierre metálico de presión, compuesto por una base circular con orificios para su fijación y una cabeza saliente que encaja con la parte complementaria del broche. Se utiliza comúnmente en prendas y accesorios para asegurar dos piezas de tela. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint.')
+                          img(src='@/assets/curso/Tema3/fig65.svg', alt='Un botón de base central elevada ha sido fijado sobre una superficie textil mediante varias puntadas laterales, mientras la aguja enhebrada continúa el proceso de costura desde uno de los orificios.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -630,7 +630,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 66.  
                             span  Pieza 3
-                          img(src='@/assets/curso/Tema3/fig66.svg', alt='Una aguja enhebrada atraviesa una superficie textil desde el anverso, con el hilo extendido en curva hacia un costado, iniciando el proceso de unión. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint. Un botón de base central elevada ha sido fijado sobre una superficie textil mediante varias puntadas laterales, mientras la aguja enhebrada continúa el proceso de costura desde uno de los orificios. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint. Dos broches metálicos están colocados en extremos opuestos de una prenda doblada, ubicados de forma simétrica para permitir el cierre por presión entre ambas piezas textiles. La imagen se encuentra: Pág.186 Anexo 1, cargado en el sharepoint. Botón de cierre metálico de presión, compuesto por una base circular con orificios para su fijación y una cabeza saliente que encaja con la parte complementaria del broche. Se utiliza comúnmente en prendas y accesorios para asegurar dos piezas de tela. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint.')
+                          img(src='@/assets/curso/Tema3/fig66.svg', alt='Dos broches metálicos están colocados en extremos opuestos de una prenda doblada, ubicados de forma simétrica para permitir el cierre por presión entre ambas piezas textiles.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -640,7 +640,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 67.  
                             span  Botón de cierre
-                          img(src='@/assets/curso/Tema3/fig67.svg', alt='Una aguja enhebrada atraviesa una superficie textil desde el anverso, con el hilo extendido en curva hacia un costado, iniciando el proceso de unión. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint. Un botón de base central elevada ha sido fijado sobre una superficie textil mediante varias puntadas laterales, mientras la aguja enhebrada continúa el proceso de costura desde uno de los orificios. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint. Dos broches metálicos están colocados en extremos opuestos de una prenda doblada, ubicados de forma simétrica para permitir el cierre por presión entre ambas piezas textiles. La imagen se encuentra: Pág.186 Anexo 1, cargado en el sharepoint. Botón de cierre metálico de presión, compuesto por una base circular con orificios para su fijación y una cabeza saliente que encaja con la parte complementaria del broche. Se utiliza comúnmente en prendas y accesorios para asegurar dos piezas de tela. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint.')
+                          img(src='@/assets/curso/Tema3/fig67.svg', alt='Botón de cierre metálico de presión, compuesto por una base circular con orificios para su fijación y una cabeza saliente que encaja con la parte complementaria del broche. Se utiliza comúnmente en prendas y accesorios para asegurar dos piezas de tela.')
                     
             .row.justify-content-center(titulo="j)	Cierres a presión automático")
               .col-md-11.mb-4.mb-md-0
@@ -655,7 +655,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 68. 
                             span  Pieza 1
-                          img(src='@/assets/curso/Tema3/fig68.svg', alt='Tres piezas alineadas verticalmente indican el armado de un broche metálico, con una parte superior e inferior dispuestas para unirse a través de una superficie textil perforada. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Una aguja enhebrada atraviesa un accesorio textil fruncido, adherido a una base rígida redonda, en el proceso de sujeción mediante puntadas a mano. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Dos piezas redondas de superficie textil acolchada se disponen por separado; una integra un pequeño vástago central, mientras la otra presenta una hendidura circular, indicando su función como sistema de cierre. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Dos piezas textiles superpuestas cuentan con botones cosidos sobre una superficie de tejido con textura gruesa y entramado visible, alineados para facilitar el cierre. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig68.svg', alt='Tres piezas alineadas verticalmente indican el armado de un broche metálico, con una parte superior e inferior dispuestas para unirse a través de una superficie textil perforada.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -667,7 +667,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 69. 
                             span  Pieza 2
-                          img(src='@/assets/curso/Tema3/fig69.svg', alt='Tres piezas alineadas verticalmente indican el armado de un broche metálico, con una parte superior e inferior dispuestas para unirse a través de una superficie textil perforada. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Una aguja enhebrada atraviesa un accesorio textil fruncido, adherido a una base rígida redonda, en el proceso de sujeción mediante puntadas a mano. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Dos piezas redondas de superficie textil acolchada se disponen por separado; una integra un pequeño vástago central, mientras la otra presenta una hendidura circular, indicando su función como sistema de cierre. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Dos piezas textiles superpuestas cuentan con botones cosidos sobre una superficie de tejido con textura gruesa y entramado visible, alineados para facilitar el cierre. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig69.svg', alt='Una aguja enhebrada atraviesa un accesorio textil fruncido, adherido a una base rígida redonda, en el proceso de sujeción mediante puntadas a mano.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -679,7 +679,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 70.  
                             span  Pieza 3
-                          img(src='@/assets/curso/Tema3/fig70.svg', alt='Tres piezas alineadas verticalmente indican el armado de un broche metálico, con una parte superior e inferior dispuestas para unirse a través de una superficie textil perforada. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Una aguja enhebrada atraviesa un accesorio textil fruncido, adherido a una base rígida redonda, en el proceso de sujeción mediante puntadas a mano. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Dos piezas redondas de superficie textil acolchada se disponen por separado; una integra un pequeño vástago central, mientras la otra presenta una hendidura circular, indicando su función como sistema de cierre. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Dos piezas textiles superpuestas cuentan con botones cosidos sobre una superficie de tejido con textura gruesa y entramado visible, alineados para facilitar el cierre. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig70.svg', alt='Dos piezas redondas de superficie textil acolchada se disponen por separado; una integra un pequeño vástago central, mientras la otra presenta una hendidura circular, indicando su función como sistema de cierre.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -691,7 +691,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 71.  
                             span  Cierres cubiertos de tela
-                          img(src='@/assets/curso/Tema3/fig71.svg', alt='Tres piezas alineadas verticalmente indican el armado de un broche metálico, con una parte superior e inferior dispuestas para unirse a través de una superficie textil perforada. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Una aguja enhebrada atraviesa un accesorio textil fruncido, adherido a una base rígida redonda, en el proceso de sujeción mediante puntadas a mano. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Dos piezas redondas de superficie textil acolchada se disponen por separado; una integra un pequeño vástago central, mientras la otra presenta una hendidura circular, indicando su función como sistema de cierre. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint Dos piezas textiles superpuestas cuentan con botones cosidos sobre una superficie de tejido con textura gruesa y entramado visible, alineados para facilitar el cierre. La imagen se encuentra: Pág.186 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig71.svg', alt='Dos piezas textiles superpuestas cuentan con botones cosidos sobre una superficie de tejido con textura gruesa y entramado visible, alineados para facilitar el cierre.')
                           figcaption Fuente: Knight, (2010)
 
             .row.justify-content-center(titulo="k)	Ojales en telas transparentes")
@@ -707,7 +707,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 72. 
                             span  Pieza 1
-                          img(src='@/assets/curso/Tema3/fig72.svg', alt='La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una aguja enhebrada realiza una puntada sobre un conjunto de capas rectangulares, donde una pieza central está reforzada con entretela y asegurada mediante costura perimetral. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una máquina de coser ejecuta una costura recta sobre una estructura rectangular reforzada con entretela, utilizando un prensatelas especializado para formar una abertura funcional. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una herramienta de corte con mango cilíndrico realiza una incisión precisa en una abertura rectangular previamente cosida sobre una superficie textil. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoiint Una abertura rectangular terminada con costura densa y reforzada se encuentra centrada sobre una superficie textil, lista para cumplir su función de ojal. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig72.svg', alt='Una estructura rectangular compuesta por varias capas textiles incluye una pieza doblada en una de sus esquinas, revelando una entretela central adherida entre las capas, con puntadas visibles en el contorno.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-6.mb-4.mb-lg-0
@@ -719,7 +719,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 73. 
                             span  Pieza 2
-                          img(src='@/assets/curso/Tema3/fig73.svg', alt='La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una aguja enhebrada realiza una puntada sobre un conjunto de capas rectangulares, donde una pieza central está reforzada con entretela y asegurada mediante costura perimetral. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una máquina de coser ejecuta una costura recta sobre una estructura rectangular reforzada con entretela, utilizando un prensatelas especializado para formar una abertura funcional. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una herramienta de corte con mango cilíndrico realiza una incisión precisa en una abertura rectangular previamente cosida sobre una superficie textil. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoiint Una abertura rectangular terminada con costura densa y reforzada se encuentra centrada sobre una superficie textil, lista para cumplir su función de ojal. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig73.svg', alt='Una aguja enhebrada realiza una puntada sobre un conjunto de capas rectangulares, donde una pieza central está reforzada con entretela y asegurada mediante costura perimetral.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
                   .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -731,7 +731,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 74.  
                             span  Pieza 3
-                          img(src='@/assets/curso/Tema3/fig74.svg', alt='La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una aguja enhebrada realiza una puntada sobre un conjunto de capas rectangulares, donde una pieza central está reforzada con entretela y asegurada mediante costura perimetral. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una máquina de coser ejecuta una costura recta sobre una estructura rectangular reforzada con entretela, utilizando un prensatelas especializado para formar una abertura funcional. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una herramienta de corte con mango cilíndrico realiza una incisión precisa en una abertura rectangular previamente cosida sobre una superficie textil. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoiint Una abertura rectangular terminada con costura densa y reforzada se encuentra centrada sobre una superficie textil, lista para cumplir su función de ojal. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig74.svg', alt='Una máquina de coser ejecuta una costura recta sobre una estructura rectangular reforzada con entretela, utilizando un prensatelas especializado para formar una abertura funcional.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -743,7 +743,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 75.  
                             span  Pieza 4
-                          img(src='@/assets/curso/Tema3/fig75.svg', alt='La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una aguja enhebrada realiza una puntada sobre un conjunto de capas rectangulares, donde una pieza central está reforzada con entretela y asegurada mediante costura perimetral. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una máquina de coser ejecuta una costura recta sobre una estructura rectangular reforzada con entretela, utilizando un prensatelas especializado para formar una abertura funcional. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una herramienta de corte con mango cilíndrico realiza una incisión precisa en una abertura rectangular previamente cosida sobre una superficie textil. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoiint Una abertura rectangular terminada con costura densa y reforzada se encuentra centrada sobre una superficie textil, lista para cumplir su función de ojal. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig75.svg', alt='Una herramienta de corte con mango cilíndrico realiza una incisión precisa en una abertura rectangular previamente cosida sobre una superficie textil.')
                           figcaption Fuente: Knight, (2010)
 
                   .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -755,7 +755,7 @@
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 76.  
                             span  Pieza 5
-                          img(src='@/assets/curso/Tema3/fig76.svg', alt='La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una aguja enhebrada realiza una puntada sobre un conjunto de capas rectangulares, donde una pieza central está reforzada con entretela y asegurada mediante costura perimetral. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una máquina de coser ejecuta una costura recta sobre una estructura rectangular reforzada con entretela, utilizando un prensatelas especializado para formar una abertura funcional. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint Una herramienta de corte con mango cilíndrico realiza una incisión precisa en una abertura rectangular previamente cosida sobre una superficie textil. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoiint Una abertura rectangular terminada con costura densa y reforzada se encuentra centrada sobre una superficie textil, lista para cumplir su función de ojal. La imagen se encuentra: Pág.183 Anexo 1, cargado al sharepoint')
+                          img(src='@/assets/curso/Tema3/fig76.svg', alt='Una abertura rectangular terminada con costura densa y reforzada se encuentra centrada sobre una superficie textil, lista para cumplir su función de ojal.')
                           figcaption Fuente: Knight, (2010)
 
 
@@ -804,7 +804,7 @@
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 77. 
                 span Paso 1 
-              img(src='@/assets/curso/Tema3/img11.png', alt='Un cierre de cremallera se encuentra parcialmente abierto, con los extremos inferiores separados y el deslizador ubicado en el centro de la cinta textil. La imagen se encuentra en el anexo 3, libro elegantisima Pág. 63, cargado en el sharepoint')
+              img(src='@/assets/curso/Tema3/img11.png', alt='Un cierre de cremallera se encuentra parcialmente abierto, con los extremos inferiores separados y el deslizador ubicado en el centro de la cinta textil.')
               figcaption.text-regular Fuente: Delego, (1974)
 
           .row.texto-izquierda 
@@ -812,7 +812,7 @@
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 78.  
                 span Paso 2
-              img(src='@/assets/curso/Tema3/img12.png', alt='Dos manos manipulan una cinta textil mientras una plancha aplica calor sobre su superficie, generando un doblez definido en uno de sus bordes. La imagen se encuentra en: Anexo 3 Pág. 63 cargado al sharepoint')
+              img(src='@/assets/curso/Tema3/img12.png', alt='Dos manos manipulan una cinta textil mientras una plancha aplica calor sobre su superficie, generando un doblez definido en uno de sus bordes.')
               figcaption.text-regular Fuente: Delego, (1974)
 
             .col-md-6.mb-4.mb-md-0
@@ -827,7 +827,7 @@
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 79.  
                 span Paso 3 
-              img(src='@/assets/curso/Tema3/img13.png', alt='Un cierre de cremallera está parcialmente abierto y doblado longitudinalmente, con ondulaciones visibles a lo largo de su cinta textil. La imagen se encuentra: Anexo 3 Pág. 63, cargado al sharepoint')
+              img(src='@/assets/curso/Tema3/img13.png', alt='Un cierre de cremallera está parcialmente abierto y doblado longitudinalmente, con ondulaciones visibles a lo largo de su cinta textil.')
               figcaption.text-regular Fuente: Delego, (1974)
 
     Separador
@@ -845,14 +845,14 @@
                 h5 Figura 80.
                 span  Puntada de pespunte o continua
               img(src='@/assets/curso/Tema3/fig80.svg', alt='Representación del proceso de realización de una puntada de pespunte o continua, en la que la aguja atraviesa la tela hacia atrás, formando una línea de puntadas firmes y uniformes, ideal para costuras duraderas en confección a mano.')
-              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 81.
                 span  Puntada punto atrás posterior o máquina.
               img(src='@/assets/curso/Tema3/fig81.svg', alt='Secuencia del procedimiento para realizar la puntada punto atrás, también conocida como puntada de máquina. Consiste en insertar la aguja hacia atrás del punto anterior, creando una línea continua de puntadas resistentes, ideal para costuras permanentes hechas a mano. ')
-              figcaption.d-none.d-lg-block Fuente: https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
+              figcaption.des Fuente: https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
 
 
           .row.justify-content-center.align-items-center
@@ -861,14 +861,14 @@
                 h5 Figura 82.
                 span Punto de hilván
               img(src='@/assets/curso/Tema3/fig82.svg', alt='Una aguja atraviesa una tela, realizando una puntada larga y espaciada, con el hilo formando un recorrido alternado que se emplea para unir temporalmente dos capas.')
-              figcaption.d-none.d-lg-block Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 83.
                 span   Puntada posterior separada
               img(src='@/assets/curso/Tema3/fig83.svg', alt='Pieza textil mientras una aguja atraviesa la superficie realizando una puntada lineal con hilo, formando una costura manual de tipo continuo.')
-              figcaption.d-none.d-lg-block Fuente:  https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html 
+              figcaption.des Fuente:  https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html 
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -876,14 +876,14 @@
                 h5 Figura 84.
                 span  Puntada de bastilla o de frunce
               img(src='@/assets/curso/Tema3/fig84.svg', alt='Una secuencia de puntadas agrupadas de forma densa genera un fruncido sobre una tela, indicando un procedimiento para ajustar volumen mediante hilo tensado.')
-              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 85.
                 span Puntada de sobrehilado
               img(src='@/assets/curso/Tema3/fig85.svg', alt='Una aguja realiza puntadas consecutivas que envuelven el borde de una tela, formando un patrón de refuerzo lineal conocido como sobrehilado.')
-              figcaption.d-none.d-lg-block Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -891,14 +891,14 @@
                 h5 Figura 86.
                 span  Punto de lado o inglés (para dobladillos)
               img(src='@/assets/curso/Tema3/fig86.svg', alt='Una aguja realiza una serie de puntadas diagonales que aseguran un doblez de una tela, formando una unión firme en el borde.')
-              figcaption.d-none.d-lg-block Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 87.
                 span  Puntada doble sobrehilado
               img(src='@/assets/curso/Tema3/fig87.svg', alt='Una aguja atraviesa dos piezas textiles superpuestas, fijando un doblez con puntadas rectas distribuidas de forma uniforme a lo largo del borde.')
-              figcaption.d-none.d-lg-block Fuente:  https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
+              figcaption.des Fuente:  https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -906,14 +906,14 @@
                 h5 Figura 88.
                 span   Punto deslizado
               img(src='@/assets/curso/Tema3/fig88.svg', alt='Una aguja realiza puntadas diagonales que unen dos bordes doblados sobre una tela, formando una costura manual que asegura los dobleces de manera cruzada.')
-              figcaption.d-none.d-lg-block Fuente:   https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente:   https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 89.
                 span Puntada invisible
               img(src='@/assets/curso/Tema3/fig89.svg', alt='Una aguja realiza una serie de puntadas en zigzag que aseguran el borde de un doblez sobre una tela.')
-              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -921,14 +921,14 @@
                 h5 Figura 90.
                 span  Punto de cruz 
               img(src='@/assets/curso/Tema3/fig90.svg', alt='Una aguja ejecuta puntadas cruzadas sobre el borde de un doblez, uniendo dos capas textiles mediante un patrón diagonal que proporciona firmeza y acabado manual.')
-              figcaption.d-none.d-lg-block Fuente:    https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente:    https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 91.
                 span  Puntada de filete, festón o manta
               img(src='@/assets/curso/Tema3/fig91.svg', alt='Una aguja atraviesa el borde de una tela, realizando puntadas envolventes en forma de espiral, generando un acabado de refuerzo con hilo continuo.')
-              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -936,14 +936,14 @@
                 h5 Figura 92.
                 span  Costura cadeneta
               img(src='@/assets/curso/Tema3/fig92.svg', alt='Se representa el proceso de formación de una puntada cadeneta, donde la aguja atraviesa la tela y el hilo se dispone en forma de bucle para crear la característica cadena de este tipo de costura.')
-              figcaption.d-none.d-lg-block Fuente:  https://www.freepik.es/fotos-premium/algunas-puntadas-bordado-lienzo-aguja_19078574.htm#from_element=cross_selling__photo
+              figcaption.des Fuente:  https://www.freepik.es/fotos-premium/algunas-puntadas-bordado-lienzo-aguja_19078574.htm#from_element=cross_selling__photo
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 93.
                 span  Puntada de ojal 
               img(src='@/assets/curso/Tema3/fig93.svg', alt='Una aguja atraviesa una tela, en dirección vertical, mientras el hilo forma múltiples bucles consecutivos en un lateral.')
-              figcaption.d-none.d-lg-block Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente: https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
           
           .row.justify-content-center.align-items-center
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
@@ -951,14 +951,14 @@
                 h5 Figura 94.
                 span  Hilván flojo
               img(src='@/assets/curso/Tema3/fig94.svg', alt='A la izquierda, una aguja atraviesa una tela, realizando puntadas amplias y sueltas con trayecto ondulado. A la derecha, un doblez está sostenido por puntadas rectas verticales, con una indicación de apertura en línea recta acompañada por un símbolo de corte.')
-              figcaption.d-none.d-lg-block Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.des Fuente:  https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 95.
                 span  Puntada escapulario o gaviado
               img(src='@/assets/curso/Tema3/fig95.svg', alt='Una aguja realiza una serie de puntadas cruzadas en la parte inferior de una pieza con doblez, formando un patrón en forma de equis que asegura el borde doblado a la base.')
-              figcaption.d-none.d-lg-block Fuente: https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
+              figcaption.des Fuente: https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
 
 
 
