@@ -175,15 +175,15 @@
                 .col-lg-8.col-md-11
                   h4.mb-4 Ciclo de gestión circular de productos textiles
                   p El ciclo de gestión circular de productos textiles, describiendo las etapas que siguen las prendas desde su producción hasta su reutilización o reciclaje.
-                  p El proceso inicia en la industria textil, donde se fabrican los productos que posteriormente llegan al punto de venta. Una vez adquiridas y utilizadas, las prendas se someten a un proceso de clasificación, en el que se determina si pueden ser reusadas o si requieren preparación para el reciclaje.
+                  p El proceso inicia en la #[b industria textil], donde se fabrican los productos que posteriormente llegan al punto de venta. Una vez adquiridas y utilizadas, las prendas se someten a un proceso de clasificación, en el que se determina si pueden ser reusadas o si requieren preparación para el reciclaje.
                   p Cuando las prendas se destinan a reciclaje, este puede ser:
                   ul.lista-ul
                     li.mb-0.d-flex
                       i.fas.fa-angle-right2
-                      | Reciclaje de bucle cerrado: los materiales recuperados se reincorporan a la producción textil, permitiendo fabricar nuevas prendas.
+                      | #[b Reciclaje de bucle cerrado:] los materiales recuperados se reincorporan a la producción textil, permitiendo fabricar nuevas prendas.
                     li.mb-0.d-flex
                       i.fas.fa-angle-right2
-                      | Reciclaje de bucle abierto: los materiales se destinan a la elaboración de productos en otras industrias, como la automotriz, la construcción o la fabricación de nuevos insumos industriales.
+                      | #[b Reciclaje de bucle abierto:] los materiales se destinan a la elaboración de productos en otras industrias, como la automotriz, la construcción o la fabricación de nuevos insumos industriales.
                 .col-lg-3.col-md-9.col-8
                   img(src='@/assets/curso/Tema4/img09.png')
               

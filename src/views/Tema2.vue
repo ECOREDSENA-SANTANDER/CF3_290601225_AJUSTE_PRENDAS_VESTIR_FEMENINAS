@@ -139,7 +139,7 @@
           
     .row.justify-content-center.align-items-center.mb-5.bg5
       .col-lg-11.p-4
-        p Ahora bien, muchas prendas vienen rematadas con puntadas de fileteado, lo que hace que descoserlas requiera mayor paciencia y cuidado. Este tipo de costura suele estar compuesta por tres hilos entrelazados en el tejido, por lo que se recomienda seguir las siguientes indicaciones para retirarla correctamente:
+        p Ahora bien, muchas prendas vienen rematadas con puntadas de fileteado, lo que hace que descoserlas requiera mayor paciencia y cuidado. Este tipo de costura suele estar compuesta por tres hilos entrelazados en el tejido, por lo que se recomienda seguir las siguientes indicaciones para retirarla correctamente.
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/Tema2/subt.svg")
@@ -220,7 +220,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p El punto de partida de cualquier intervención debe ser el análisis antropométrico, que permite identificar las diferencias entre las medidas corporales reales y las dimensiones que ofrece la prenda. A partir de esta lectura, se definen los puntos de ajuste necesarios, y se procede con la modificación directa sobre las piezas desarmadas o sobre los moldes derivados.
+        p El punto de partida de cualquier intervención debe ser el #[b análisis antropométrico], que permite identificar las diferencias entre las medidas corporales reales y las dimensiones que ofrece la prenda. A partir de esta lectura, se definen los puntos de ajuste necesarios, y se procede con la modificación directa sobre las piezas desarmadas o sobre los moldes derivados.
         .row.justify-content-center.mb-4(data-aos="fade")
           .col-lg-6.col-md-8.pe-lg-0
             .bg9.p-4.pb-0.h-100
@@ -317,7 +317,7 @@
             .row.justify-content-center.p-4
               .col-lg-2.mb-4.mb-md-0.col-md-6
                 h4 Opción 1. 
-                p Primero tener claro los centímetros del aumento e intentar obtenerlos del ruedo y/o del margen de costura en la unión de piezas como la línea de hombro, unión en cintura o de cortes horizontales.
+                p Primero tener claro los centímetros del aumento e intentar obtenerlos del ruedo y / o del margen de costura en la unión de piezas como la línea de hombro, unión en cintura o de cortes horizontales.
               .col-lg-3.mb-3.col-md-6
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                   h5 Figura 13. 
@@ -490,7 +490,7 @@
       .col-lg-4.bg7
         .row.justify-content-center.align-items-center.mb-5.p-4.my-5
           .col-lg-9
-            p Hay que tener en cuenta que la ampliación en la parte inferior del patrón del vestido, representada en la figura por la línea roja, corresponde a un ajuste derivado del ensanche realizado en la sección superior. En caso de no contar con suficiente tela, otra alternativa es añadir tela en los costados, ajustando la medida del contorno de cadera. Para ello, la nueva línea lateral se trazará por fuera del patrón base hasta coincidir con la medida deseada. 
+            p Hay que tener en cuenta que #[b la ampliación en la parte inferior del patrón del vestido], representada en la figura por la #[b línea roja], corresponde a un ajuste derivado del ensanche realizado en la sección superior. En caso de no contar con suficiente tela, otra alternativa es #[b añadir tela en los costados], ajustando la medida del contorno de cadera. Para ello, la nueva línea lateral se trazará por fuera del patrón base hasta coincidir con la medida deseada. 
 
     .tarjeta.bg11.p-3.py-md-4(data-aos="fade").mb-3
         .row.justify-content-around.align-items-center

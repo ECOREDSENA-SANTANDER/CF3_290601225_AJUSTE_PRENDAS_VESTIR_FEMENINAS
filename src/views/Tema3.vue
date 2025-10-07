@@ -43,7 +43,7 @@
                 tr
                   th.texto-izquierda Presentación y entrega
                   td.texto-izquierda Preparación final de la prenda para su entrega: doblado técnico, empaque protector (si aplica), y registro de entrega o ficha de conformidad con la clienta.
-
+          figcaption Fuente: SENA, (2025)
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.1 Procesos de acabado
@@ -305,7 +305,7 @@
                             h5 Figura 40.  
                             span  Pieza terminada
                           img(src='@/assets/curso/Tema3/fig40.svg', alt='Pieza rectangular con doblez en el borde lateral, asegurado mediante una línea de puntadas paralela al margen, formando un acabado limpio en el extremo. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Dos piezas textiles están unidas por una tira central visible en la parte posterior. La unión genera un acabado plano con simetría a ambos lados del centro. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Aguja en posición diagonal atraviesa una superficie textil, mientras el hilo forma un lazo curvo al ser traccionado hacia el lado opuesto. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Unión central de dos piezas textiles, reforzada por una tira con bordes rematados a ambos lados. Las terminaciones laterales presentan acabado en sobrehilado simétrico. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint Pieza textil con unión central marcada por una línea vertical. En el acercamiento se evidencian los bordes internos con terminaciones en sobrehilado, asegurando el acabado interior de la costura. La imagen se encuentra: Pág. 71 anexo 1, cargado al sharepoint')
-                          figcaption Fuente: Knight, (2010)
+                        
 
             .row.justify-content-center(titulo="e)	Acabado con pespunte")
               .col-md-11.mb-4.mb-md-0
@@ -318,7 +318,7 @@
                     .tarjeta--boton.p-4
                       .row.justify-content-center.align-items-center
                         .col-lg-6
-                          p Paso 1. Coser a máquina plana las dos partes a 1,5 cm.
+                          p Paso 1. Realizar una costura simple a 1cm o 1,5 cm.
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 41. 
@@ -448,7 +448,7 @@
                     .tarjeta--boton.p-4
                       .row.justify-content-center.align-items-center
                         .col-lg-6
-                          p Paso 1. Asegurar el hilo a la tela con un nudo por el revés de la tela y pasar por el agujero.
+                          p Paso 1. Colocar un trozo de tela cortado al sesgo encima de la ubicación del ojal e hilvanar.
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 51. 
@@ -460,7 +460,7 @@
                     .tarjeta--boton.p-4
                       .row.justify-content-center.align-items-center
                         .col-lg-6
-                          p Paso 2. Meter la aguja por otro agujero y pasarlo por la tela, el hilo se debe dejar flojo.
+                          p Paso 2. Marcar la posición y forma del ojal, acortar el largo de la puntada y coser alrededor de la forma.  Se recomienda empezar en medio. 
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 52. 
@@ -472,7 +472,7 @@
                     .tarjeta--boton.p-4
                       .row.justify-content-center.align-items-center
                         .col-lg-6
-                          p Paso 3. Repetir el proceso pasándolo de nuevo y saque la aguja entre el botón y la tela. De unas vueltas alrededor de los hilos hasta hacer una presilla.
+                          p Paso 3. Cortar por el centro del ojal y hacia las esquinas sin cortar los hilos.
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 53.  
@@ -484,7 +484,7 @@
                     .tarjeta--boton.p-4
                       .row.justify-content-center.align-items-center
                         .col-lg-6
-                          p Paso 4. Por último, se debe sacar la aguja por el revés de la tela y pasarla por las puntadas para fijarlas. Remate y corte el hilo.
+                          p Paso 4. Tirar de la tela pasándola por el agujero y sacar hacia fuera los bordes.  Ajustar la tela para que quede plana sobre las solapas creadas por los bordes cortados de dentro.  
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 54. 
@@ -496,7 +496,7 @@
                     .tarjeta--boton.p-4
                       .row.justify-content-center.align-items-center
                         .col-lg-6
-                          p Paso 5. Repetir el proceso anterior, pero saque la aguja directamente por la patilla. Rematar por el revés de la misma manera que en el caso de los agujeros.
+                          p Paso 5. Marcar la posición del ojal en el forro y cortar hacia el centro y hacia las esquinas. Planchar los bordes cortados hacia abajo y coser en su sito por el revés del ojal.
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 55.  
@@ -831,7 +831,7 @@
               figcaption.text-regular Fuente: Delego, (1974)
 
     Separador
-    #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.3 Costuras manuales
 
     p.mb-3 El proceso de formación de un sastre comienza con el conocimiento y dominio de los principales tipos de puntadas a mano. Estas técnicas artesanales, que requieren únicamente una aguja, hilo y tela, son fundamentales tanto para la construcción de la prenda como para sus acabados. A continuación, se presentan las costuras manuales más representativas.
@@ -921,7 +921,7 @@
                 h5 Figura 90.
                 span  Punto de cruz 
               img(src='@/assets/curso/Tema3/fig90.svg', alt='Una aguja ejecuta puntadas cruzadas sobre el borde de un doblez, uniendo dos capas textiles mediante un patrón diagonal que proporciona firmeza y acabado manual.')
-              figcaptio.d-none.d-lg-blockn Fuente:    https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
+              figcaption.d-none.d-lg-block Fuente:    https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')

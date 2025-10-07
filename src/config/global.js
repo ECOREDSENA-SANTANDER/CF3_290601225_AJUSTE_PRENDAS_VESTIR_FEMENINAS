@@ -262,7 +262,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Delego, D. (1974). Elegantísima: La enciclopedia práctica de la moda (Tomo 1: Temas básicos de la costura). Editorial Mo­de­la­ndo, S. R. L., Buenos Aires',
+        'Delego, D. (1974). Elegantísima: La enciclopedia práctica de la moda (Tomo 1: Temas básicos de la costura). Editorial Mo­de­la­ndo, S. R. L., Buenos Aires.',
       link: '',
     },
     {

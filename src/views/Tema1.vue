@@ -101,35 +101,35 @@
               ul.lista-ul
                   li.mb-0
                     i.fas.fa-angle-right2
-                    | Delanteros
+                    | Delanteros.
                   li.mb-0
                     i.fas.fa-angle-right2
-                    | Espaldas
+                    | Espaldas.
                   li.mb-0
                     i.fas.fa-angle-right2
-                    | Mangas 
+                    | Mangas.
             .col-lg-4
               ul.lista-ul
                   li.mb-0
                     i.fas.fa-angle-right2
-                    | Cuellos 
+                    | Cuellos.
                   li.mb-0
                     i.fas.fa-angle-right2
-                    | Puños 
+                    | Puños.
                   li.mb-0
                     i.fas.fa-angle-right2
-                    | Vistas 
+                    | Vistas.
             .col-lg-4
               ul.lista-ul
                   li.mb-0
                     i.fas.fa-angle-right2
-                    | Forros 
+                    | Forros. 
                   li.mb-0
                     i.fas.fa-angle-right2
-                    | Refuerzos 
+                    | Refuerzos. 
                   li.mb-0
                     i.fas.fa-angle-right2
-                    | Pretinas 
+                    | Pretinas. 
         .col-lg-4.mb-3
           img(src='@/assets/curso/Tema1/img06.png', alt='')
         .col-lg-3
@@ -239,7 +239,7 @@
 
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-        h2 Tizado, trazo y señalización en el material textil
+        h2 1.2 Tizado, trazo y señalización en el material textil
 
       p.mb-4 Son procesos clave en la confección, permiten organizar moldes, marcar contornos en la tela y ubicar referencias para asegurar precisión y optimizar el corte.
 
@@ -262,13 +262,13 @@
                   ul.lista-ul
                     li.mb-0
                       i.fas.fa-angle-right2
-                      | Tejido base o principal
+                      | Tejido base o principal.
                     li.mb-0
                       i.fas.fa-angle-right2
-                      | Forros
+                      | Forros.
                     li.mb-0
                       i.fas.fa-angle-right2
-                      | Entretelas u otros materiales de refuerzo
+                      | Entretelas u otros materiales de refuerzo.
         .col-lg-6.col-md-12
           img(src='@/assets/curso/Tema1/img13.png', alt='')
 
@@ -331,8 +331,9 @@
 
       .row.justify-content-center.mb-4
         .col-lg-7
-          p El trazo direccional es una técnica de marcado que se emplea cuando el material textil presenta una orientación específica en su superficie, ya sea por motivos visuales, táctiles o estructurales. En este procedimiento, todas las piezas patrón deben colocarse siguiendo la misma dirección del hilo, ya sea hacia arriba o hacia abajo, respetando la disposición uniforme del vello, del estampado o del brillo del tejido. Esta forma de trazado resulta esencial en textiles cuya apariencia o comportamiento cambia según el ángulo de visión o el sentido del tacto, como en los siguientes casos:
-          .row.justify-content-center.align-items-center
+          p El trazo direccional es una técnica de marcado que se emplea cuando el material textil presenta una orientación específica en su superficie, ya sea por motivos visuales, táctiles o estructurales. En este procedimiento, todas las piezas patrón deben colocarse siguiendo la misma dirección del hilo, ya sea hacia arriba o hacia abajo, respetando la disposición uniforme del vello, del estampado o del brillo del tejido. 
+          p Esta forma de trazado resulta esencial en textiles cuya apariencia o comportamiento cambia según el ángulo de visión o el sentido del tacto, como en los siguientes casos:
+          .row.justify-content-center
             .col-lg-7
               ul.lista-ul
                 li.mb-0.d-flex
@@ -352,7 +353,7 @@
                   p.mb-0 Textiles con cambio de color por inclinación o movimiento.
                 li.mb-0.d-flex
                   i.fas.fa-angle-right2
-                  p Superficies con textura de una sola vía
+                  p Superficies con textura de una sola vía.
         .col-lg-5.col-md-8
           img(src='@/assets/curso/Tema1/img16.png', alt='')
 
@@ -474,7 +475,10 @@
 
           figcaption Fuente: SENA, (2025)
 
-
+      Separador
+      #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.3  Proceso de corte
+      
       .bloque-texto-g.bloque-texto-g--inverso.bg18.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/Tema1/img18.png')})`}"
@@ -679,7 +683,7 @@
                           p.mb-0 Gruesos y largos para telas pesadas como lana o dril.
                         li.mb-2.d-flex
                           i.fas.fa-angle-right2
-                          p.mb-0 Finos y cortos para telas ligeras como seda, chiffon o voile.
+                          p.mb-0 Finos y cortos para telas ligeras como seda, #[em chiffon] o #[em voile].
 
                   li.mb-0.d-flex
                     i.fas.fa-angle-right2
@@ -728,7 +732,7 @@
             .col-lg-2.col-4.mb-3.col-md-3
               img(src="@/assets/curso/Tema1/img25.svg")
             .col-lg-8
-              p En el lenguaje profesional de confección, la acción de insertar alfileres sobre el tejido para sujetar los moldes se denomina pinar.
+              p En el lenguaje profesional de confección, la acción de insertar alfileres sobre el tejido para sujetar los moldes se denomina #[b pinar].
 
             
       .tarjeta.bg11.p-3.py-md-4(data-aos="fade").mb-3

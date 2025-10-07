@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.svg", alt="El componente “Ajuste y precisión” se organiza en cuatro ejes temáticos que integran aspectos técnicos y sostenibles de la confección textil. El primero aborda el modelado, trazo y corte, incluyendo el extendido de la tela, el tizado, la señalización y el proceso de corte. El segundo se enfoca en las técnicas y procesos para el arreglo de prendas, desde el armado y desarmado hasta la aplicación de criterios técnicos para su modificación. El tercer eje comprende los acabados y terminados, considerando los procesos de acabado, la preparación de detalles, las costuras manuales y la revisión de calidad. Finalmente, se incorpora la gestión ambiental y la moda sostenible, con especial atención a la reducción de residuos textiles y el suprarreciclaje. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
