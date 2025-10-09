@@ -936,7 +936,7 @@
                 h5 Figura 92.
                 span  Costura cadeneta
               img(src='@/assets/curso/Tema3/fig92.svg', alt='Se representa el proceso de formación de una puntada cadeneta, donde la aguja atraviesa la tela y el hilo se dispone en forma de bucle para crear la característica cadena de este tipo de costura.')
-              figcaption.des Fuente:  https://www.freepik.es/fotos-premium/algunas-puntadas-bordado-lienzo-aguja_19078574.htm#from_element=cross_selling__photo
+            
             
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')

@@ -112,8 +112,8 @@
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 5.  
                 span Paso 1
-              img(src='@/assets/curso/Tema2/fig5.png', alt='Manos sostienen una pieza textil mientras una herramienta con punta curva es utilizada para deshacer una costura recta en el borde de la tela. Dedos sostienen dos capas de tela mientras se separan con precisión los puntos de una costura, en un proceso manual de descosido. Una mano levanta ligeramente una prenda mientras una herramienta de descosedor reposa sobre la superficie, rodeada de restos de hilo suelto.')
-              figcaption Fuente: https://skarlett.es/como-descoser/ 
+              img(src='@/assets/curso/Tema2/fig5.png', alt=' Una persona utiliza un descosedor para abrir una costura en una tela, separando cuidadosamente las puntadas iniciales del tejido plano. ')
+          
       .col-sm-6.col-lg-4.mb-4.mb-lg-0 
         .tarjeta--boton.bg7.p-4
           .row.justify-content-center.mb-3
@@ -122,8 +122,8 @@
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 6.  
                 span Paso 2
-              img(src='@/assets/curso/Tema2/fig6.png', alt='Dedos sostienen dos capas de tela mientras se separan con precisión los puntos de una costura, en un proceso manual de descosido.')
-              figcaption Fuente: https://skarlett.es/como-descoser/ 
+              img(src='@/assets/curso/Tema2/fig6.png', alt='Una persona utiliza un corta hilos para separar las piezas del tejido luego de abrir la costura principal. ')
+     
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-0  
         .tarjeta--boton.bg8.p-4
@@ -133,8 +133,8 @@
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 7.  
                 span Paso 3
-              img(src='@/assets/curso/Tema2/fig7.png', alt='Una mano levanta ligeramente una prenda mientras una herramienta de descosedor reposa sobre la superficie, rodeada de restos de hilo suelto.')
-              figcaption Fuente: https://skarlett.es/como-descoser/ 
+              img(src='@/assets/curso/Tema2/fig7.png', alt=' Las piezas del tejido se presentan completamente separadas tras finalizar el proceso de descosido. ')
+          
          
           
     .row.justify-content-center.align-items-center.mb-5.bg5
@@ -165,7 +165,7 @@
                 h5 Figura 9.  
                 span Paso 2
               img(src='@/assets/curso/Tema2/fig9.png', alt='Dedos sujetan una tela con bordes rematados, parcialmente descosidos, mientras en el fondo se distingue una herramienta manual colocada sobre una superficie cuadriculada.')
-              figcaption.text-regular Fuente: Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/
+              figcaption.text-regular Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/
 
             .col-lg-6.mb-4.mb-md-0
               h4 Paso 2. 
@@ -180,7 +180,7 @@
                 h5 Figura 10.  
                 span Paso 3 
               img(src='@/assets/curso/Tema2/fig10.png', alt='Mano sostiene una pieza de tela con costura lateral deshecha, mientras varios fragmentos de hilo suelto reposan al lado sobre una superficie cuadriculada.')
-              figcaption.text-regular Fuente: Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/ 
+              figcaption.text-regular Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/ 
 
           .row.texto-izquierda 
             .col-lg-5.col-md-10
@@ -188,7 +188,7 @@
                 h5 Figura 11.  
                 span Paso 4 
               img(src='@/assets/curso/Tema2/fig11.png', alt='Mano sostiene un hilo azul que se retira cuidadosamente de una costura lateral, mientras otros hilos de distintos grosores permanecen sueltos sobre la tela.')
-              figcaption.text-regular Fuente: Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/ 
+              figcaption.text-regular Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/ 
             .col-lg-6
               h4 Paso 4.  
               h4 Romper las puntadas de la aguja.

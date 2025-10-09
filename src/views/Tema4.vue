@@ -74,7 +74,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.mb-4
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 95. 
+          h5 Figura 96. 
           span Residuos textiles
         img(src='@/assets/curso/Tema4/fig96.png', alt='Una gran acumulación de prendas de vestir se encuentra apilada en forma de montaña sobre una superficie de concreto, dentro de un espacio amplio con paredes desgastadas y ventanas altas.')
       .col-lg-6
