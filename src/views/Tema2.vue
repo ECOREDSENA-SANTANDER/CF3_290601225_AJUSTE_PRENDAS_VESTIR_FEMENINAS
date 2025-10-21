@@ -20,37 +20,37 @@
               ul.lista-ul
                 li.mb-0
                   i.fas.fa-angle-right2
-                  | Talla
+                  | Talla.
                 li.mb-0
                   i.fas.fa-angle-right2
-                  | Largo
+                  | Largo.
                 li.mb-0
                   i.fas.fa-angle-right2
-                  | Ajuste corporal
+                  | Ajuste corporal.
             .col-lg-4
               h5 Por reparación de daños
               ul.lista-ul
                 li.mb-0
                   i.fas.fa-angle-right2
-                  | Desgaste
+                  | Desgaste.
                 li.mb-0
                   i.fas.fa-angle-right2
-                  | Roturas
+                  | Roturas.
                 li.mb-0
                   i.fas.fa-angle-right2
-                  | Manchas
+                  | Manchas.
             .col-lg-3
               h5 Con fines creativos
               ul.lista-ul
                 li.mb-0
                   i.fas.fa-angle-right2
-                  | Personalización
+                  | Personalización.
                 li.mb-0
                   i.fas.fa-angle-right2
-                  | Tendencia
+                  | Tendencia.
                 li.mb-0
                   i.fas.fa-angle-right2
-                  | Suprareciclaje
+                  | Suprareciclaje.
         
     p.mb-4 A continuación, se describen las técnicas más utilizadas, agrupadas por su propósito:
 
@@ -151,7 +151,7 @@
           .row
             .col-lg-6.mb-4.mb-md-0
               h4 Paso 1. 
-              h4 Romper las puntadas superiores del filete.
+              p Romper las puntadas superiores del filete.
             .col-lg-5.col-md-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 8.  
@@ -169,12 +169,12 @@
 
             .col-lg-6.mb-4.mb-md-0
               h4 Paso 2. 
-              h4 Empezar a sacar los hilos cortados.
+              p Empezar a sacar los hilos cortados.
 
           .row
             .col-lg-6.mb-4.mb-md-0
               h4 Paso 3.  
-              h4 Costura deshecha.
+              p Costura deshecha.
             .col-lg-5.col-md-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 10.  
@@ -191,12 +191,12 @@
               figcaption.text-regular Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/ 
             .col-lg-6
               h4 Paso 4.  
-              h4 Romper las puntadas de la aguja.
+              p Romper las puntadas de la aguja.
             
           .row
             .col-lg-6.mb-4.mb-md-0
               h4 Paso 5. 
-              h4 Por último, tirar la hebra y se terminará de desbaratar el filete.
+              p Por último, tirar la hebra y se terminará de desbaratar el filete.
             .col-lg-5.col-md-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 12.  

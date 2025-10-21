@@ -153,19 +153,19 @@
                   th.texto-izquierda.bg4 Ejemplos comunes
               tbody
                 tr
-                  td.texto-izquierda Componentes exteriores
+                  td.texto-izquierda #[b Componentes exteriores]
                   td.texto-izquierda Piezas visibles elaboradas en el material textil base que definen la silueta y forma de la prenda.
                   td.texto-izquierda Delanteros, posteriores, cuellos, mangas, bolsillos, puños.
                 tr
-                  td.texto-izquierda Componentes interiores
+                  td.texto-izquierda #[b Componentes interiores]
                   td.texto-izquierda Elementos internos que brindan soporte estructural, abrigo o refuerzo; suelen estar ocultos en el revés o entre capas de tejido.
                   td.texto-izquierda Forro, entretela, guata, cinta de sesgo.
                 tr
-                  td.texto-izquierda Hilos de costura
+                  td.texto-izquierda #[b  Hilos de costura]
                   td.texto-izquierda Material lineal utilizado para unir los diferentes componentes; su elección afecta la resistencia, elasticidad y calidad de la confección.
                   td.texto-izquierda Pespuntes, puntadas decorativas, bastas, puntadas manuales.
                 tr
-                  td.texto-izquierda Fornituras y complementos
+                  td.texto-izquierda #[b Fornituras y complementos]
                   td.texto-izquierda Conjunto de accesorios funcionales o decorativos añadidos a la prenda para facilitar su uso o aportar valor estético.
                   td.texto-izquierda Botones, cremalleras, broches de presión, hebillas, corchetes, vivos, puntillas, cintas, apliques, gomas, cordones.
           figcaption Fuente: SENA, (2025)
@@ -402,19 +402,19 @@
                   th.texto-izquierda.bg4 Observaciones
               tbody
                 tr
-                  td.texto-izquierda Bidireccional
+                  td.texto-izquierda #[b Bidireccional]
                   td.texto-izquierda Disposición de los moldes en dos direcciones opuestas dentro del mismo tendido.
                   td.texto-izquierda Vello o hilo en ambos sentidos.
                   td.texto-izquierda Tejidos sin restricción de brillo, textura o estampado.
                   td.texto-izquierda Permite mayor aprovechamiento del material; no afecta la apariencia final.
                 tr
-                  td.texto-izquierda Direccional
+                  td.texto-izquierda #[b Direccional]
                   td.texto-izquierda Trazado alineado en un único sentido, respetando la orientación del hilo o acabado del tejido.
                   td.texto-izquierda Vello en un solo sentido (hacia arriba o abajo).
                   td.texto-izquierda Tejidos con brillo, estampados orientados, terciopelo, gamuza, materiales con dirección visual o táctil.
                   td.texto-izquierda Mayor consumo de tela, pero garantiza homogeneidad estética.
                 tr
-                  td.texto-izquierda En sesgo (diagonal)
+                  td.texto-izquierda #[b En sesgo (diagonal)]
                   td.texto-izquierda Disposición de los moldes en ángulo inclinado, generalmente a 45°, respecto al hilo recto del tejido.
                   td.texto-izquierda Vello en diagonal.
                   td.texto-izquierda Prendas que requieren caída, elasticidad natural o movimiento, cintas al bies, faldas circulares.
@@ -426,11 +426,11 @@
         h3.ps-3.pe-4.mb-0 Señalización en el proceso de corte y confección
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-7.mb-3.col-md-8
+        .col-lg-4.mb-3.col-md-8
           img(src="@/assets/curso/Tema1/img17.png")
-        .col-lg-5
+        .col-lg-7.bg2.p-4
           p La señalización sobre las piezas patrón permite una trazabilidad clara durante el proceso de corte y confección. Esta información, aplicada directamente en el molde o sobre el tejido, garantiza una interpretación precisa por parte de quienes participan en el ensamblaje y seguimiento del diseño. Se detallan los elementos fundamentales que deben incluirse:
-          p.bg17.p-4 Cada dato debe estar claramente identificado y ordenado en el patrón, facilitando que quienes realizan el corte o la confección comprendan su función, su relación con el diseño general y el tipo de tejido a utilizar.
+        
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-12
@@ -474,7 +474,9 @@
                   td.texto-izquierda ½.
 
           figcaption Fuente: SENA, (2025)
-
+      .row.justify-content-center.align-items-center.mb-2.bg17.p-4
+        .col-lg-11
+          p Cada dato debe estar claramente identificado y ordenado en el patrón, facilitando que quienes realizan el corte o la confección comprendan su función, su relación con el diseño general y el tipo de tejido a utilizar.
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.3  Proceso de corte
@@ -554,18 +556,11 @@
         h3.ps-3.pe-4.mb-0 Formas de transferencia de patrones al material textil
 
       .row.justify-content-center.align-items-center.mb-5.bg3
-        .col-lg-4.col-md-6.mb-3.d-none.d-lg-block
+        .col-lg-4.col-md-6.mb-1.d-none.d-lg-block
           img(src="@/assets/curso/Tema1/img19.png")
         .col-lg-8
-          .row.justify-content-center.align-items-center
-            .col-lg-6
-              p La transferencia del patrón al tejido es una operación fundamental para asegurar que cada pieza mantenga su forma y proporción durante el corte. Existen diversos métodos, entre los cuales se destacan los siguientes por su practicidad y eficiencia:
-            .col-lg-5.col-11.col-md-9
-              .titulo-sexto.color-acento-contenido
-                h5 Figura 4. 
-                span  Pesas de apoyo para transferencia
-              img(src='@/assets/curso/Tema1/img20.png', alt='Se presentan elementos con forma piramidal ubicados sobre moldes de patronaje, utilizados como pesas para mantener en su lugar el papel durante el proceso de transferencia del diseño a la tela. Estos objetos facilitan el trazado al evitar desplazamientos indeseados del material. ')
-              figcaption Fuente:  https://www.menudonumerito.com/2018/04/pesas-para-patrones-para-que-sirven-y.html
+          p La transferencia del patrón al tejido es una operación fundamental para asegurar que cada pieza mantenga su forma y proporción durante el corte. Existen diversos métodos, entre los cuales se destacan los siguientes por su practicidad y eficiencia:
+           
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-12
@@ -595,7 +590,13 @@
           
           figcaption Fuente: SENA, (2025)
 
-
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-6.col-11.col-md-9
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 4. 
+            span  Pesas de apoyo para transferencia
+          img(src='@/assets/curso/Tema1/img20.png', alt='Se presentan elementos con forma piramidal ubicados sobre moldes de patronaje, utilizados como pesas para mantener en su lugar el papel durante el proceso de transferencia del diseño a la tela. Estos objetos facilitan el trazado al evitar desplazamientos indeseados del material. ')
+          figcaption Fuente:  https://www.menudonumerito.com/2018/04/pesas-para-patrones-para-que-sirven-y.html
       .subt.mb-4(data-aos="fade")
         img(src="@/assets/curso/Tema2/subt.svg")
         h3.ps-3.pe-4.mb-0 Métodos de marcación en el tejido

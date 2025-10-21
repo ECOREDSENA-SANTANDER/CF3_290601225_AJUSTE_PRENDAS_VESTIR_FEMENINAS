@@ -155,7 +155,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF3_290601225_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -309,13 +309,12 @@ export default {
     },
     {
       referencia:
-        'Textile Exchange. (2022). Preferred Fiber & Materials Market Report. Recuperado de: ',
+        'Textile Exchange. (2022). Preferred Fiber & Materials Market Report.',
       link:
         'https://textileexchange.org/app/uploads/2022/10/Textile-Exchange_PFMR_2022.pdf ',
     },
     {
-      referencia:
-        'Vitral Textil. (2024). Informe de tendencias 2025. Recuperado de:',
+      referencia: 'Vitral Textil. (2024). Informe de tendencias 2025.',
       link: 'https://vitraltextil.com/2025/01/07/informe-tendencias-2024-2-3/',
     },
   ],

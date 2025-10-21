@@ -65,7 +65,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 22. 
-                            span  Paso 1
+                            span  Pieza 1
                           img(src='@/assets/curso/Tema3/fig22.svg', alt='Superficie rectangular de papel plegada en uno de sus extremos, con línea discontinua paralela al borde que indica la ubicación de un doblez o margen de costura.')
                           figcaption Fuente: Knight, (2010)
 
@@ -77,7 +77,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 23. 
-                            span  Paso 2
+                            span  Pieza 2
                           img(src='@/assets/curso/Tema3/fig23.svg', alt='Pieza rectangular de tela con doble línea de costura visible al centro, generando un acabado simétrico. El área central forma una pestaña doblada hacia ambos lados.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
@@ -89,7 +89,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 24.  
-                            span  Paso 3
+                            span  Pieza 3
                           img(src='@/assets/curso/Tema3/fig24.svg', alt='Tira de tela posicionada con doblez central marcado y costuras planas a cada lado, mientras una plancha se aplica en uno de los extremos para asentar el acabado.')
                           figcaption Fuente: Knight, (2010)
 
@@ -101,7 +101,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 25. 
-                            span  Paso 4
+                            span  Pieza 4
                           img(src='@/assets/curso/Tema3/fig25.svg', alt='Superficie textil con doble línea de pespunte vertical. En la parte superior se amplía el detalle para evidenciar el acabado centrado de una costura recta.')
                           figcaption Fuente: Knight, (2010)
               
@@ -121,7 +121,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 26. 
-                            span  Paso 1
+                            span  Pieza 1
                           img(src='@/assets/curso/Tema3/fig26.svg', alt='Dos piezas textiles rectangulares. Una se encuentra extendida y la otra doblada de forma longitudinal, con sus bordes alineados hacia el interior.')
                           figcaption Fuente: Knight, (2010)
 
@@ -133,7 +133,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 27. 
-                            span  Paso 2
+                            span  Pieza 2
                           img(src='@/assets/curso/Tema3/fig27.svg', alt='Pieza textil rectangular con tira doblada y alineada sobre uno de los bordes. La unión está indicada mediante una línea recta acompañada de marcas de puntada.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
@@ -145,7 +145,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 28.  
-                            span  Paso 3
+                            span  Pieza 3
                           img(src='@/assets/curso/Tema3/fig28.svg', alt='Superficie textil con tira doblada y cosida sobre uno de sus bordes. La costura está representada por una línea discontinua paralela al margen.')
                           figcaption Fuente: Knight, (2010)
 
@@ -157,7 +157,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 29. 
-                            span  Paso 4
+                            span  Pieza 4
                           img(src='@/assets/curso/Tema3/fig29.svg', alt='Dos piezas textiles unidas en línea recta. Una de ellas presenta un doblez con costura visible paralela al borde, mientras la otra se extiende de manera plana.')
                           figcaption Fuente: Knight, (2010)
                 .row
@@ -188,7 +188,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 31. 
-                            span  Paso 1
+                            span  Pieza 1
                           img(src='@/assets/curso/Tema3/fig31.svg', alt='Superficie de tela con líneas diagonales marcadas. En una esquina se ha recortado un triángulo, generando un ángulo inclinado sobre el borde superior derecho.')
                           figcaption Fuente: Knight, (2010)
 
@@ -200,7 +200,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 32. 
-                            span  Paso 2
+                            span  Pieza 2
                           img(src='@/assets/curso/Tema3/fig32.svg', alt='Dos piezas textiles están alineadas por sus bordes verticales. Una de ellas presenta una línea discontinua paralela al margen, que representa una costura de unión entre ambas.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
@@ -212,7 +212,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 33.  
-                            span  Paso 3
+                            span  Pieza 3
                           img(src='@/assets/curso/Tema3/fig33.svg', alt='Superficie textil con tira doblada en uno de los bordes, asegurada mediante costura recta visible. El acabado refuerza el extremo lateral de la pieza.')
                           figcaption Fuente: Knight, (2010)
 
@@ -224,7 +224,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 34. 
-                            span  Paso 4
+                            span  Pieza 4
                           img(src='@/assets/curso/Tema3/fig34.svg', alt='Pieza textil con doblez en el borde lateral, asegurado mediante una línea de puntadas visibles que recorren el margen de forma paralela.')
                           figcaption Fuente: Knight, (2010)
                 .row
@@ -255,7 +255,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 36. 
-                            span  Paso 1
+                            span  Pieza 1
                           img(src='@/assets/curso/Tema3/fig36.svg', alt='Pieza rectangular con doblez en el borde lateral, asegurado mediante una línea de puntadas paralela al margen, formando un acabado limpio en el extremo.')
                           figcaption Fuente: Knight, (2010)
 
@@ -267,7 +267,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 37. 
-                            span  Paso 2
+                            span  Pieza 2
                           img(src='@/assets/curso/Tema3/fig37.svg', alt='Dos piezas textiles están unidas por una tira central visible en la parte posterior. La unión genera un acabado plano con simetría a ambos lados del centro.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
@@ -279,7 +279,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 38.  
-                            span  Paso 3
+                            span  Pieza 3
                           img(src='@/assets/curso/Tema3/fig38.svg', alt='Aguja en posición diagonal atraviesa una superficie textil, mientras el hilo forma un lazo curvo al ser traccionado hacia el lado opuesto.')
                           figcaption Fuente: Knight, (2010)
 
@@ -291,7 +291,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 39. 
-                            span  Paso 4
+                            span  Pieza 4
                           img(src='@/assets/curso/Tema3/fig39.svg', alt='Unión central de dos piezas textiles, reforzada por una tira con bordes rematados a ambos lados. Las terminaciones laterales presentan acabado en sobrehilado simétrico.')
                           figcaption Fuente: Knight, (2010)
                 .row
@@ -305,7 +305,7 @@
                             h5 Figura 40.  
                             span  Pieza terminada
                           img(src='@/assets/curso/Tema3/fig40.svg', alt='Pieza textil con unión central marcada por una línea vertical. En el acercamiento se evidencian los bordes internos con terminaciones en sobrehilado, asegurando el acabado interior de la costura.')
-                        
+                          figcaption Fuente: Knight, (2010)
 
             .row.justify-content-center(titulo="e)	Acabado con pespunte")
               .col-md-11.mb-4.mb-md-0
@@ -322,7 +322,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 41. 
-                            span  Paso 1
+                            span  Pieza 1
                           img(src='@/assets/curso/Tema3/fig41.svg', alt='Superficie textil con margen doblado en uno de los bordes, asegurado mediante una línea de costura discontinua que corre paralela al extremo.')
                           figcaption Fuente: Knight, (2010)
 
@@ -334,7 +334,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 42. 
-                            span  Paso 2
+                            span  Pieza 2
                           img(src='@/assets/curso/Tema3/fig42.svg', alt='Dos piezas textiles unidas mediante una costura central por el reverso, con márgenes doblados hacia el interior. La vista posterior revela un acabado plano y simétrico.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
@@ -346,7 +346,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 43.  
-                            span  Paso 3
+                            span  Pieza 3
                           img(src='@/assets/curso/Tema3/fig43.svg', alt='Pieza textil con doblez reforzado en el borde derecho, compuesto por dos líneas de costura paralelas que aseguran el margen interior. El acabado es plano y resistente.')
                           figcaption Fuente: Knight, (2010)
 
@@ -358,7 +358,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 44. 
-                            span  Paso 4
+                            span  Pieza 4
                           img(src='@/assets/curso/Tema3/fig44.svg', alt='Pieza textil con tres líneas verticales de costura visibles. En el acercamiento superior se aprecia el detalle del pespunte doble que asegura una tira central, generando un acabado reforzado.')
                           figcaption Fuente: Knight, (2010)
 
@@ -376,7 +376,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 45. 
-                            span  Paso 1
+                            span  Pieza 1
                           img(src='@/assets/curso/Tema3/fig45.svg', alt='Aguja atraviesa una superficie textil desde el reverso, siguiendo una línea discontinua que marca el recorrido del pespunte. El hilo forma un lazo curvo antes de ser ajustado.')
                           figcaption Fuente: Knight, (2010)
 
@@ -388,7 +388,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 46. 
-                            span  Paso 2
+                            span  Pieza 2
                           img(src='@/assets/curso/Tema3/fig46.svg', alt='Aguja atraviesa una superficie desde el reverso mientras el hilo envuelve varias veces una línea vertical de puntadas agrupadas, formando un refuerzo decorativo o funcional.')
                           figcaption Fuente: Knight, (2010)
                 .row.mb-3
@@ -400,7 +400,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 47.  
-                            span  Paso 3
+                            span  Pieza 3
                           img(src='@/assets/curso/Tema3/fig47.svg', alt='Puntadas agrupadas forman un ojal rodeado por hilo enrollado de forma pareja. Una aguja atraviesa lateralmente el centro del refuerzo, mientras el hilo forma un lazo para continuar la costura.')
                           figcaption Fuente: Knight, (2010)
 
@@ -412,7 +412,7 @@
                         .col-lg-6  
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 48. 
-                            span  Paso 4
+                            span  Pieza 4
                           img(src='@/assets/curso/Tema3/fig48.svg', alt='Aguja atraviesa horizontalmente una estructura de hilo denso que forma un ojal reforzado. El hilo se curva alrededor del extremo redondeado, completando el contorno del acabado.')
                           figcaption Fuente: Knight, (2010)
                 .row
@@ -424,7 +424,7 @@
                         .col-lg-6
                           .titulo-sexto.color-acento-contenido.mb-4
                             h5 Figura 49.  
-                            span  Pieza terminada
+                            span  Puntada
                           img(src='@/assets/curso/Tema3/fig49.svg', alt='Aguja atraviesa verticalmente una superficie, asegurando una serie de puntadas compactas dispuestas horizontalmente. El hilo se curva hacia atrás para continuar el refuerzo en el extremo del ojal.')
                           figcaption Fuente: Knight, (2010)
               
@@ -850,7 +850,7 @@
             .col-10.col-md-8.col-lg-5.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 81.
-                span  Puntada punto atrás posterior o máquina.
+                span  Puntada punto atrás posterior o máquina
               img(src='@/assets/curso/Tema3/fig81.svg', alt='Secuencia del procedimiento para realizar la puntada punto atrás, también conocida como puntada de máquina. Consiste en insertar la aguja hacia atrás del punto anterior, creando una línea continua de puntadas resistentes, ideal para costuras permanentes hechas a mano. ')
               figcaption.des Fuente: https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html
 

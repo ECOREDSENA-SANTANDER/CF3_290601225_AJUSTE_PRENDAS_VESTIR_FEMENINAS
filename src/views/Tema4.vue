@@ -27,22 +27,22 @@
                   th.texto-izquierda.bg4 Descripción técnica
               tbody
                 tr
-                  td.texto-izquierda #[b Extensión de la vida útil del producto.]
+                  td.texto-izquierda #[b Extensión de la vida útil del producto]
                   td.texto-izquierda Se evita el consumo innecesario de nuevos materiales, disminuyendo el impacto ambiental.
              
                 tr
-                  td.texto-izquierda #[b Reducción del desecho textil.]
+                  td.texto-izquierda #[b Reducción del desecho textil]
                   td.texto-izquierda Se aprovechan residuos de corte, ropa en desuso o muestras defectuosas.
 
                 tr
-                  td.texto-izquierda #[b Valor agregado al trabajo artesanal.]
+                  td.texto-izquierda #[b Valor agregado al trabajo artesanal]
                   td.texto-izquierda Se reconoce el saber técnico de quien transforma, generando identidad y diferenciación.
 
                 tr
-                  td.texto-izquierda #[b Fortalecimiento de la sostenibilidad.]
+                  td.texto-izquierda #[b Fortalecimiento de la sostenibilidad]
                   td.texto-izquierda Se promueve una práctica responsable desde quien produce hasta quien consume.
                 tr
-                  td.texto-izquierda #[b Contribución al cuidado del planeta.]
+                  td.texto-izquierda #[b Contribución al cuidado del planeta]
                   td.texto-izquierda Se convierte en una estrategia activa para enfrentar la crisis ambiental y de consumo.
             figcaption Fuente: SENA, (2025)
         .col-lg-3.col-6
@@ -72,11 +72,6 @@
       h2 4.1 Residuos textiles
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6.mb-4
-        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 96. 
-          span Residuos textiles
-        img(src='@/assets/curso/Tema4/fig96.png', alt='Una gran acumulación de prendas de vestir se encuentra apilada en forma de montaña sobre una superficie de concreto, dentro de un espacio amplio con paredes desgastadas y ventanas altas.')
       .col-lg-6
         .row.justify-content-center.align-items-center
           .col-lg-8
@@ -85,6 +80,12 @@
             img(src='@/assets/curso/Tema4/img05.svg')
         .bg6.p-4
           p Por esta razón, cualquier intervención sobre estos materiales, ya sea para reutilización o transformación creativa, requiere un conocimiento básico sobre su composición textil, ya que de ello depende su comportamiento, su funcionalidad y su capacidad para integrarse en nuevos productos de forma segura y eficiente.
+      .col-lg-6.mb-4
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 96. 
+          span Residuos textiles
+        img(src='@/assets/curso/Tema4/fig96.png', alt='Una gran acumulación de prendas de vestir se encuentra apilada en forma de montaña sobre una superficie de concreto, dentro de un espacio amplio con paredes desgastadas y ventanas altas.')
+      
 
     .subt.mb-5(data-aos="fade")
       img(src="@/assets/curso/Tema2/subt.svg")
