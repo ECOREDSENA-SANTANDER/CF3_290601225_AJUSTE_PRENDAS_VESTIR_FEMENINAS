@@ -18,7 +18,7 @@
         .col-lg-9.mb-4
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 12. 
-            span Ventajas del suprareciclaje aplicado a la confección de prendas
+            span #[em Ventajas del suprareciclaje aplicado a la confección de prendas]
           .tabla-a.color-acento-contenido 
             table(alt='Tabla que expone beneficios del suprarreciclaje aplicado a la confección de prendas, con descripciones técnicas sobre extensión de vida útil, reducción de desechos textiles, valor artesanal, sostenibilidad y cuidado ambiental.')
               thead
@@ -76,14 +76,14 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             p Cuando se trabaja con prendas u objetos textiles que han sido descartados, es fundamental reconocer que cada uno de esos productos está compuesto por fibras que han atravesado diversos procesos industriales, desde su transformación en hilos hasta la fabricación de telas.
-          .col-lg-4.col-5
+          .col-lg-4.col-5.col-md-4
             img(src='@/assets/curso/Tema4/img05.svg')
-        .bg6.p-4
+        .bg6.p-4.mb-3
           p Por esta razón, cualquier intervención sobre estos materiales, ya sea para reutilización o transformación creativa, requiere un conocimiento básico sobre su composición textil, ya que de ello depende su comportamiento, su funcionalidad y su capacidad para integrarse en nuevos productos de forma segura y eficiente.
-      .col-lg-6.mb-4
+      .col-lg-6.mb-4.col-md-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 96. 
-          span Residuos textiles
+          h5 Figura 75. 
+          span #[em Residuos textiles]
         img(src='@/assets/curso/Tema4/fig96.png', alt='Una gran acumulación de prendas de vestir se encuentra apilada en forma de montaña sobre una superficie de concreto, dentro de un espacio amplio con paredes desgastadas y ventanas altas.')
       
 
@@ -181,10 +181,10 @@
                   ul.lista-ul
                     li.mb-0.d-flex
                       i.fas.fa-angle-right2
-                      | #[b Reciclaje de bucle cerrado:] los materiales recuperados se reincorporan a la producción textil, permitiendo fabricar nuevas prendas.
+                      p #[b Reciclaje de bucle cerrado:] los materiales recuperados se reincorporan a la producción textil, permitiendo fabricar nuevas prendas.
                     li.mb-0.d-flex
                       i.fas.fa-angle-right2
-                      | #[b Reciclaje de bucle abierto:] los materiales se destinan a la elaboración de productos en otras industrias, como la automotriz, la construcción o la fabricación de nuevos insumos industriales.
+                      p #[b Reciclaje de bucle abierto:] los materiales se destinan a la elaboración de productos en otras industrias, como la automotriz, la construcción o la fabricación de nuevos insumos industriales.
                 .col-lg-3.col-md-9.col-8
                   img(src='@/assets/curso/Tema4/img09.png')
               
@@ -306,7 +306,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 13. 
-            span Ejemplos de arreglos de prendas
+            span #[em Ejemplos de arreglos de prendas]
           .tabla-a.color-acento-contenido 
             table(alt='Tabla que presenta ejemplos de prendas de origen con sus respectivas transformaciones propuestas y el valor añadido resultante. Incluye pantalón denim, camisa masculina, chaqueta acolchada y fragmentos de ropa.')
               thead

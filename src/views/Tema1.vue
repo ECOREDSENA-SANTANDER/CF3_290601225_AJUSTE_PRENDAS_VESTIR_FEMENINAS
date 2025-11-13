@@ -89,7 +89,7 @@
                   li.mb-0.d-flex
                     i.fas.fa-angle-right2
                     | Entender cómo se relacionan las partes del diseño para lograr un tendido del tejido correcto y eficiente. 
-        .col-lg-5.col-10
+        .col-lg-5.col-10.col-md-9
           img(src='@/assets/curso/Tema1/img04.png', alt='')
 
 
@@ -130,11 +130,11 @@
                   li.mb-0
                     i.fas.fa-angle-right2
                     | Pretinas. 
-        .col-lg-4.mb-3
+        .col-lg-4.mb-3.col-md-9
           img(src='@/assets/curso/Tema1/img06.png', alt='')
         .col-lg-3
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-3
+            .col-lg-3.col-3.col-md-2
               img(src='@/assets/curso/Tema1/boton.svg', alt='')
             .col-lg-12
               p Es fundamental que cada uno de ellos esté debidamente clasificado y organizado antes de proceder al trazado sobre la tela, con el fin de garantizar precisión y eficiencia en el proceso de confección.
@@ -143,7 +143,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 1. 
-            span Componentes de la prenda de vestir
+            span #[em Componentes de la prenda de vestir]
           .tabla-a.color-acento-contenido 
             table(alt='Tabla con cuatro filas que agrupan categorías de insumos textiles, acompañadas por definiciones técnicas y ejemplos comunes para cada caso.')
               thead
@@ -321,7 +321,7 @@
         .col-lg-7
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 1.  
-            span Señalización en dos direcciones
+            span #[em Señalización en dos direcciones]
           img(src='@/assets/curso/Tema1/figura1.svg', alt='Secuencia gráfica que representa el proceso de orientación del hilo en piezas de bolsillo. Inicia con la marcación direccional, continúa con la ubicación del hilo en el molde y concluye con la disposición rotada de los bolsillos sobre la tela.')
           figcaption Fuente: SENA, (2021)
 
@@ -363,7 +363,7 @@
         .col-lg-7
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 2.  
-            span Señalización en una dirección
+            span #[em Señalización en una dirección]
           img(src='@/assets/curso/Tema1/figura2.svg', alt='Representación del trazado de bolsillos con hilo orientado en una sola dirección. Se indica la marcación lineal, la ubicación del hilo en el molde y la distribución paralela de las piezas sobre el material sin rotación.')
           figcaption Fuente: SENA, (2021)
 
@@ -382,7 +382,7 @@
         .col-lg-7
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 3.  
-            span Señalización para sesgar
+            span #[em Señalización para sesgar]
           img(src='@/assets/curso/Tema1/figura3.svg', alt='Secuencia que indica el trazado diagonal de bolsillos. Incluye la marcación del hilo en ángulo, la orientación inclinada del molde y la disposición final del bolsillo rotado sobre el material en dirección oblicua.')
           figcaption Fuente: SENA, (2021)
 
@@ -390,7 +390,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 2. 
-            span Comparativo técnico de trazos según orientación del hilo y aplicación textil
+            span #[em Comparativo técnico de trazos según orientación del hilo y aplicación textil]
           .tabla-a.color-acento-contenido 
             table(alt='La tabla presenta un comparativo entre tres tipos de trazo textil: bidireccional, direccional y en sesgo. Cada técnica se caracteriza por la orientación del hilo o vello, su aplicación según el tipo de tejido, y sus implicaciones en el rendimiento y comportamiento de la tela. Se destaca que el trazo bidireccional permite mayor aprovechamiento del material, el direccional asegura uniformidad estética en tejidos con brillo o textura orientada, y el trazo en sesgo aporta elasticidad y caída, aunque requiere mayor control técnico. ')
               thead
@@ -436,7 +436,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 3. 
-            span Elementos de señalización 
+            span #[em Elementos de señalización]
           .tabla-a.color-acento-contenido 
             table(alt='Tabla que presenta elementos relacionados con la identificación y manejo de piezas textiles: referencia o nombre del cliente, nombre de la pieza, tipo de material y número de pieza en el tendido. Cada elemento incluye su descripción técnica y un ejemplo aplicado.')
               thead
@@ -497,7 +497,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 4. 
-            span Tipologías principales de corte
+            span #[em Tipologías principales de corte]
           .tabla-a.color-acento-contenido 
             table(alt='Tabla que describe tres tipos de corte: manual, convencional o mecanizado y automático. Para cada tipo, presenta una descripción técnica y las herramientas utilizadas, desde tijeras y moldes físicos hasta sistemas CAD/CAM y maquinaria automatizada.')
               thead
@@ -566,7 +566,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 5. 
-            span Métodos de transferencia
+            span #[em Métodos de transferencia]
           .tabla-a.color-acento-contenido 
             table(alt='Tabla que presenta tres métodos de transferencia en la confección textil: marcado con tiza o jaboncillo, pinar con alfileres y sujeción con pesas. Cada método incluye su descripción técnica y las ventajas que ofrece para el trabajo con moldes y telas.')
               thead
@@ -589,14 +589,18 @@
                   td.texto-izquierda Evita perforaciones y desplazamientos del molde.
           
           figcaption Fuente: SENA, (2025)
+      .subt2.mb-4(data-aos="fade")    
+        h3.pb-1.mb-0 Pesas de apoyo para transferencia
+
+      p.mb-4 Son utensilios denominados pesas de apoyo, utilizados para mantener fijo el papel o la tela durante el proceso de transferencia del diseño, su función principal es evitar desplazamientos involuntarios del material, garantizando precisión en el trazado y una transferencia limpia y estable sobre la superficie textil. Estas pesas también pueden estar elaboradas en tela y rellenas con arena o arroz, lo que les otorga el peso necesario para brindar estabilidad y facilitar su manejo práctico en las labores de diseño y confección.
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-6.col-11.col-md-9
+        .col-lg-12.col-11.col-md-11
           .titulo-sexto.color-acento-contenido
             h5 Figura 4. 
-            span  Pesas de apoyo para transferencia
-          img(src='@/assets/curso/Tema1/img20.png', alt='Se presentan elementos con forma piramidal ubicados sobre moldes de patronaje, utilizados como pesas para mantener en su lugar el papel durante el proceso de transferencia del diseño a la tela. Estos objetos facilitan el trazado al evitar desplazamientos indeseados del material. ')
-          figcaption Fuente:  https://www.menudonumerito.com/2018/04/pesas-para-patrones-para-que-sirven-y.html
+            span  #[em Pesas de apoyo para transferencia]
+          img(src='@/assets/curso/Tema1/img20.png', alt='En la escena se aprecia el proceso de transferencia de un diseño textil, donde una persona sostiene una herramienta de corte o trazado sobre el papel patrón. Sobre la superficie de trabajo se emplean pesas metálicas distribuidas estratégicamente para mantener fijo el material y evitar desplazamientos durante la marcación.')
+       
       .subt.mb-4(data-aos="fade")
         img(src="@/assets/curso/Tema2/subt.svg")
         h3.ps-3.pe-4.mb-0 Métodos de marcación en el tejido

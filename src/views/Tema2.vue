@@ -58,7 +58,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 6. 
-            span Técnicas comunes en el arreglo de prendas de vestir
+            span #[em Técnicas comunes en el arreglo de prendas de vestir]
           .tabla-a.color-acento-contenido 
             table(alt='Tabla que enumera tipos de intervención en prendas con sus descripciones técnicas y ejemplos de aplicación. Incluye ajuste de medidas, modificación de largo, reposición o refuerzo, rediseño parcial, costura de reparación, pulimiento estético y suprarreciclaje.')
               thead
@@ -105,7 +105,7 @@
 
     .row.mb-4
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton.bg6.p-4
+        .tarjeta--boton.bg-6.p-4
           .row.justify-content-center.mb-3
             h3.text-center.mb-4 Desbaratar costura plana
             .col-lg-11
@@ -115,7 +115,7 @@
               img(src='@/assets/curso/Tema2/fig5.png', alt=' Una persona utiliza un descosedor para abrir una costura en una tela, separando cuidadosamente las puntadas iniciales del tejido plano. ')
           
       .col-sm-6.col-lg-4.mb-4.mb-lg-0 
-        .tarjeta--boton.bg7.p-4
+        .tarjeta--boton.bg-7.p-4
           .row.justify-content-center.mb-3
             p.text-center.text-small Si el textil es resistente puede probarse abriendo los textiles e ir cortando con el cortahilos o desbaratador.
             .col-lg-11
@@ -126,7 +126,7 @@
      
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-0  
-        .tarjeta--boton.bg8.p-4
+        .tarjeta--boton.bg-8.p-4
           .row.justify-content-center.mb-3
             h3.text-center.mb-4 Separación de las piezas
             .col-lg-11
@@ -145,65 +145,28 @@
       img(src="@/assets/curso/Tema2/subt.svg")
       h3.ps-3.pe-4.mb-0 Procedimiento para retirar costuras con remate de filete
 
-    .row.justify-content-center.align-items-center.mb-0
-      .col-lg-10
-        PasosA.color-adicional-1.mb-5(tipo="n")
-          .row
-            .col-lg-6.mb-4.mb-md-0
-              h4 Paso 1. 
-              p Romper las puntadas superiores del filete.
-            .col-lg-5.col-md-10
-              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 8.  
-                span Paso 1 
-              img(src='@/assets/curso/Tema2/fig8.png', alt='Mano sostiene el borde de una tela con costura rematada mientras una herramienta puntiaguda es usada para retirar el hilo inferior, identificado como “áncora inferior”.')
-              figcaption.text-regular Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/
-
-          .row.texto-izquierda 
-            .col-lg-5.col-md-10
-              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 9.  
-                span Paso 2
-              img(src='@/assets/curso/Tema2/fig9.png', alt='Dedos sujetan una tela con bordes rematados, parcialmente descosidos, mientras en el fondo se distingue una herramienta manual colocada sobre una superficie cuadriculada.')
-              figcaption.text-regular Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/
-
-            .col-lg-6.mb-4.mb-md-0
-              h4 Paso 2. 
-              p Empezar a sacar los hilos cortados.
-
-          .row
-            .col-lg-6.mb-4.mb-md-0
-              h4 Paso 3.  
-              p Costura deshecha.
-            .col-lg-5.col-md-10
-              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 10.  
-                span Paso 3 
-              img(src='@/assets/curso/Tema2/fig10.png', alt='Mano sostiene una pieza de tela con costura lateral deshecha, mientras varios fragmentos de hilo suelto reposan al lado sobre una superficie cuadriculada.')
-              figcaption.text-regular Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/ 
-
-          .row.texto-izquierda 
-            .col-lg-5.col-md-10
-              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 11.  
-                span Paso 4 
-              img(src='@/assets/curso/Tema2/fig11.png', alt='Mano sostiene un hilo azul que se retira cuidadosamente de una costura lateral, mientras otros hilos de distintos grosores permanecen sueltos sobre la tela.')
-              figcaption.text-regular Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/ 
-            .col-lg-6
-              h4 Paso 4.  
-              p Romper las puntadas de la aguja.
-            
-          .row
-            .col-lg-6.mb-4.mb-md-0
-              h4 Paso 5. 
-              p Por último, tirar la hebra y se terminará de desbaratar el filete.
-            .col-lg-5.col-md-10
-              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 12.  
-                span Paso 5
-              img(src='@/assets/curso/Tema2/fig12.png', alt='Mano sostiene un hilo azul que se retira cuidadosamente de una costura lateral, mientras otros hilos de distintos grosores permanecen sueltos sobre la tela.')
-              figcaption.text-regular Fuente: https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/ 
-
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5.mb-3.col-md-8
+        img(src="@/assets/curso/Tema2/nueva.png")
+      .col-lg-7
+        p El procedimiento para retirar costuras con remate de filete comienza rompiendo las puntadas superiores del filete, para luego extraer con cuidado los hilos cortados. A medida que se retiran, la costura se desarma progresivamente, permitiendo el desprendimiento del filete. En la etapa siguiente, se cortan las puntadas de la aguja para liberar por completo las uniones de la tela. Finalmente, se tira de la hebra principal hasta eliminar totalmente el filete, dejando la superficie textil limpia y libre de costuras.
+        p Una vez separadas cuidadosamente las piezas que se van a intervenir, estas deben asumirse como patrones activos: moldes reales obtenidos directamente de una prenda existente, que pueden modificarse conforme a criterios técnicos y necesidades específicas de ajuste.
+        p.bg7.p-4 Las técnicas de arreglo descritas se basan en principios de adaptación morfológica, es decir, en ajustes que consideran las proporciones anatómicas de la persona usuaria, con el propósito de optimizar la comodidad, la funcionalidad y la estética de la prenda.
+    
+    .tarjeta.bg11.p-3.py-md-4(data-aos="fade").mb-5
+        .row.justify-content-around.align-items-center
+          .col-3.col-sm-2.col-lg-1
+            img(src="@/assets/curso/Tema2/video.svg")
+          .col
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h4.mb-1.bg1color Tres maneras de descoser
+                p.mb-0.text-white Para ampliar y profundizar los contenidos abordados, se recomienda consultar el siguiente enlace:
+              .col-sm-auto
+                a.boton.color-acento-botones(:href="('https://www.naiicostura.com/3-maneras-de-descoser-costura-overlock/')" target="_blank")
+                  span Ir al sitio
+                  i.fas.fa-circle-play
+  
     .bg7.p-3
       .row.justify-content-center.align-items-center
         .col-lg-4
@@ -213,7 +176,7 @@
         .col-lg-4
           p Las técnicas de arreglo que aquí se presentan se fundamentan en principios de adaptación morfológica, es decir, modificaciones basadas en las proporciones anatómicas de la persona usuaria, con el fin de mejorar la vestibilidad, funcionalidad y estética de la prenda.
 
-
+    
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.2 Enfoque técnico del proceso de modificación
@@ -229,7 +192,7 @@
             .bg10.p-4.p-lg-5.h-100.d-flex.align-items-center
               .row.justify-content-center.align-items-center
                 .col-lg-12
-                  h4 Estas adaptaciones pueden abarcar zonas específicas del diseño, tales como:
+                  p.bg4.p-1 Estas adaptaciones pueden abarcar zonas específicas del diseño, tales como:
                 .col-lg-12
                   ul.lista-ul
                     li.mb-0
@@ -257,7 +220,7 @@
         .col-lg-9.mb-4
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 7. 
-            span Técnicas aplicables según el tipo de intervención
+            span #[em Técnicas aplicables según el tipo de intervención]
           .tabla-a.color-acento-contenido 
             table(alt='Tabla que detalla tipos de ajuste en prendas: alargar o ampliar, acortar o reducir y ajustes de precisión. Cada tipo incluye procedimientos técnicos recomendados para su realización, como soltar márgenes, cortar excedentes o modificar zonas periféricas específicas.')
               thead
@@ -320,8 +283,8 @@
                 p Primero tener claro los centímetros del aumento e intentar obtenerlos del ruedo y / o del margen de costura en la unión de piezas como la línea de hombro, unión en cintura o de cortes horizontales.
               .col-lg-3.mb-3.col-md-6
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 13. 
-                  span Pieza 1 
+                  h5 Figura 8.
+                  span #[em Pieza 1]
                 figure
                   img(src='@/assets/curso/Tema2/fig13.svg', alt='Dos manos sostienen un molde dividido, al que se le ha insertado una franja de papel en el espacio generado por el corte, indicada como aumento sobre la línea del doblez.')
                   figcaption Fuente: Jeffreys, (2005)
@@ -331,8 +294,8 @@
                 p Si la opción 1 no funcionó, se debe realizar un corte horizontal y añadir tela. Recuerde incluir los centímetros para el margen de costura.
               .col-lg-3.mb-3.col-md-6
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 14. 
-                  span Pieza 2
+                  h5 Figura 9. 
+                  span #[em Pieza 2]
                 figure
                   img(src='@/assets/curso/Tema2/fig14.svg', alt='Una mano sostiene una pieza de papel mientras otra utiliza tijeras para realizar un corte vertical guiado por dos líneas marcadas: una corresponde al doblez y otra indica la zona de modificación.')
                   figcaption Fuente: Jeffreys, (2005)
@@ -343,23 +306,23 @@
                 p Si es el largo de la pieza, se reduce en los ruedos, pero si es en zonas como pecho y espalda, por ejemplo, se puede hacer un corte horizontal o un pliegue.
               .col-lg-3.mb-3.col-md-4
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 15. 
-                  span Pieza 1 
+                  h5 Figura 10. 
+                  span #[em Pieza 1]
                 figure
                   img(src='@/assets/curso/Tema2/fig15.svg', alt='Manos trabajan sobre una superficie extendida con papel añadido al molde original. Una regla y un lápiz permiten trazar una nueva curva que redefine el bajo de la prenda, uniendo la prolongación de los costados.')
                   figcaption Fuente: Jeffreys, (2005)
         
               .col-lg-3.mb-3.col-md-4
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 16. 
-                  span Pieza 2
+                  h5 Figura 11. 
+                  span #[em Pieza 2]
                 figure
                   img(src='@/assets/curso/Tema2/fig16.svg', alt='Dos manos sostienen una regla sobre papel cuadriculado mientras se traza una línea horizontal. El trazo define una sección que será reducida, señalada como cantidad a acortar.')
                   figcaption Fuente: Jeffreys, (2005)
               .col-lg-3.mb-3.col-md-4
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 17. 
-                  span Pieza 3
+                  h5 Figura 12. 
+                  span #[em Pieza 3]
                 figure
                   img(src='@/assets/curso/Tema2/fig17.svg', alt='Ambas manos doblan el papel sobre una línea horizontal previamente trazada, identificada como línea de modificación, con el fin de ajustar la longitud del molde.')
                   figcaption Fuente: Jeffreys, (2005)
@@ -370,8 +333,8 @@
                 p Para subir una costura de pecho en curva, se debe hacer un pliegue a través del frente del delantero entre el hombro y la sisa. Esos mismos centímetros se deben incluir en un corte horizontal por encima de la cintura al frente y al costadillo del delantero. Bajar la sisa en el costadillo en igual cantidad.
               .col-lg-3.mb-3.col-md-8
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 18. 
-                  span Pieza 1 
+                  h5 Figura 13. 
+                  span #[em Pieza 1]
                 figure
                   img(src='@/assets/curso/Tema2/fig18.svg', alt='Dos moldes de prenda están intervenidos para ajuste. El costadillo y el frente delantero presentan ampliaciones con papel en la zona inferior. En el molde frontal se evidencia una pinza doblada y una nueva línea de sisa redibujada en su tamaño original.')
                   figcaption Fuente: Jeffreys, (2005)
@@ -380,8 +343,8 @@
                 p Para bajar una costura de pecho en una curva, se debe cortar a través del frente delantero a mitad de distancia entre el hombro y la sisa. Extender las piezas y hacer un pliegue por el frente y el costadillo cogiendo la misma cantidad. 
               .col-lg-3.mb-3.col-md-8
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 19. 
-                  span Pieza 2
+                  h5 Figura 14. 
+                  span #[em Pieza 2]
                 figure
                   img(src='@/assets/curso/Tema2/fig19.svg', alt='Moldes de costadillo y frente delantero muestran ajustes en largo mediante pliegues ocultos bajo el patrón. Se indica la reconstrucción de la sisa a tamaño original y la ubicación del borde del doblez en cada pieza.')
                   figcaption Fuente: Jeffreys, (2005)
@@ -402,12 +365,12 @@
           
           .col-md.tarjeta.color-acento-botones.p-5
             .row.justify-content-center.mb-4
-              .col-lg-11 
+              .col-lg-11
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 20. 
-                  span Vestido clásico
+                  h5 Figura 15. 
+                  span #[em Vestido clásico]
                 figure
-                  img(src='@/assets/curso/Tema2/vestido.png', alt='Prenda sin mangas, de corte recto y largo medio, con escote redondeado modificado por una pequeña abertura frontal con botones decorativos. Incorpora dos bolsillos de parche en la parte inferior frontal, también con botones centrales.')      
+                  img(src='@/assets/curso/Tema2/fig15.png', alt='Vestido de diseño clásico con cuello redondo, mangas cortas y falda amplia de largo medio. Incorpora un lazo decorativo en la cintura que acentúa la silueta y aporta un estilo clásico, femenino y elegante.')      
       .col-lg-4.col-8.col-md-6
         img(src="@/assets/curso/Tema2/img06.png")
 
@@ -483,7 +446,7 @@
       .col-lg-3.col-10.mb-4.col-md-6
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 21. 
-          span Patrón vestido
+          span #[em Patrón vestido]
         figure
           img(src='@/assets/curso/Tema2/fig21.svg', alt='Molde de prenda sin mangas con línea de corte marcada en diagonal desde la sisa hasta el bajo. Una franja central en color contrastante indica una posible zona de ampliación o inserción de pieza complementaria.')      
         figcaption Fuente:  Sena, (2021)
