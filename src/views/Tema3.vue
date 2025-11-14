@@ -802,7 +802,7 @@
               p Cierre sin haberse intervenido.
             .col-md-5
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 72. 
+                h5 Figura 72... 
                 span #[em Paso 1]
               img(src='@/assets/curso/Tema3/72.png', alt='Cierre de cremallera en posición inicial, completamente unida y alineada, lista para iniciar el proceso de confección o montaje en la prenda.')
             
