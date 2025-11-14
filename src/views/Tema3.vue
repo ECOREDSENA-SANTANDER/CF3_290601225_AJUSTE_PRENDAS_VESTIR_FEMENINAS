@@ -805,7 +805,7 @@
                 h5 Figura 72. 
                 span #[em Paso 1]
               img(src='@/assets/curso/Tema3/72.png', alt='Cierre de cremallera en posición inicial, completamente unida y alineada, lista para iniciar el proceso de confección o montaje en la prenda.')
-              figcaption.text-regular Fuente: Delego, (1974)
+            
 
           .row.texto-izquierda.align-items-center 
             .col-md-5
