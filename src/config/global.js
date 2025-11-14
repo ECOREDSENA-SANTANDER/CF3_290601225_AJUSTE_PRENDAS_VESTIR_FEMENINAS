@@ -261,13 +261,18 @@ export default {
   ],
   referencias: [
     {
+      referencia: 'Celestecielo, G. C. (s. f.). Puntadas a mano.',
+      link:
+        'https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html',
+    },
+    {
       referencia:
-        'Delego, D. (1974). Elegantísima: La enciclopedia práctica de la moda (Tomo 1: Temas básicos de la costura). Editorial Mo­de­la­ndo, S. R. L., Buenos Aires.',
+        'Delego, D. (1974). Elegantísima: La enciclopedia práctica de la moda (Tomo 1: Temas básicos de la costura). Editorial Modelando, S. R. L., Buenos Aires.',
       link: '',
     },
     {
       referencia:
-        'Jeffreys, C. (2005). Manual completo de costura (4. ª ed.). Editorial El Drac, S. L.',
+        'Jeffreys, C. (2005). Manual completo de costura (4.ª ed.). Editorial El Drac, S. L.',
       link: '',
     },
     {
@@ -277,7 +282,12 @@ export default {
     },
     {
       referencia:
-        'Gómez, M. L. (2020). Moda sostenible: Transforma y personaliza tu ropa. Editorial Gustavo Gili. Instituto Nacional Tecnológico. (2011). Manual de unión y acabado de prendas de vestir',
+        'Gómez, M. L. (2020). Moda sostenible: Transforma y personaliza tu ropa. Editorial Gustavo Gili.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Nacional Tecnológico. (2011). Manual de unión y acabado de prendas de vestir.',
       link: 'https://es.scribd.com/document/412659427',
     },
     {
@@ -287,14 +297,14 @@ export default {
     },
     {
       referencia:
-        'Organización Internacional de Normalización (ISO). (2015). Sistemas de gestión de la calidad – Fundamentos y vocabulario (ISO 9000:2015). ',
+        'Organización Internacional de Normalización (ISO). (2015). Sistemas de gestión de la calidad – Fundamentos y vocabulario (ISO 9000:2015).',
       link: '',
     },
     {
       referencia:
-        'Pacheco, V.H. (2023). Economía circular y el arreglo y modificación de ropa. LinkedIn. ',
+        'Pacheco, V. H. (2023). Economía circular y el arreglo y modificación de ropa. LinkedIn.',
       link:
-        'https://es.linkedin.com/pulse/econom%C3%ADa-circular-y-el-arreglo-modificaci%C3%B3n-de-ropa-pacheco ',
+        'https://es.linkedin.com/pulse/econom%C3%ADa-circular-y-el-arreglo-modificaci%C3%B3n-de-ropa-pacheco',
     },
     {
       referencia:
@@ -308,10 +318,15 @@ export default {
       link: '',
     },
     {
+      referencia: 'Seamwork. (s. f.). 5 hand-sewing stitches you need to know.',
+      link:
+        'https://www-seamwork-com.translate.goog/sewing-tutorials/know-your-stitches?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc',
+    },
+    {
       referencia:
         'Textile Exchange. (2022). Preferred Fiber & Materials Market Report.',
       link:
-        'https://textileexchange.org/app/uploads/2022/10/Textile-Exchange_PFMR_2022.pdf ',
+        'https://textileexchange.org/app/uploads/2022/10/Textile-Exchange_PFMR_2022.pdf',
     },
     {
       referencia: 'Vitral Textil. (2024). Informe de tendencias 2025.',
