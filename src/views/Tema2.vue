@@ -445,7 +445,7 @@
                 | Si la prenda posee forro, este también debe ajustarse de forma coherente con las modificaciones realizadas.
       .col-lg-3.col-10.mb-4.col-md-6
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 21. 
+          h5 Figura 16. 
           span #[em Patrón vestido]
         figure
           img(src='@/assets/curso/Tema2/fig21.svg', alt='Molde de prenda sin mangas con línea de corte marcada en diagonal desde la sisa hasta el bajo. Una franja central en color contrastante indica una posible zona de ampliación o inserción de pieza complementaria.')      
